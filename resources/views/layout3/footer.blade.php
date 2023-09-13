@@ -12,8 +12,6 @@
       <div class="col-lg-3 col-md-6 footer-links">
         <h4>Produk</h4>
         <ul>
-          <li><i class="bx bx-chevron-right"></i> <a href="{{ route('sp') }}">DIKO SP</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="{{ route('pos') }}">DIKO POS</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="{{ route('andromedasp') }}">Andromeda SP</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="{{ route('andromedapos') }}" >Andromeda POS </a></li>
         </ul>

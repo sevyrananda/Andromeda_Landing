@@ -12,7 +12,7 @@
           <li><a class="nav-link scrollto" href="#team">Testimonial</a></li>
           <li><a class="nav-link   scrollto" href="#pricing">Pricing</a></li>
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="{{ route('landing') }}">Login</a></li>
+          <li><a class="getstarted scrollto" href="{{ route('landing2') }}">Login</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
