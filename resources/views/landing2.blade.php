@@ -22,7 +22,7 @@
       <div class="container position-relative" data-aos="fade-up">
         <div class="row">
           <div class="col-lg-6">
-            <h2>About Andromeda</h2>
+            <h2>Tentang Andromeda</h2>
             <p>ANDROMEDA merupakan sistem aplikasi simpan pinjam koperasi adalah platform perangkat lunak 
                 yang dirancang khusus untuk membantu koperasi dalam mengelola keuangan, anggota, dan transaksi simpan pinjam.</p>
           </div>
@@ -403,8 +403,8 @@
       <div class="container-fluid" data-aos="fade-up">
 
         <div class="section-header">
-          <h2>Event Venue</h2>
-          <p>Event venue location info and gallery</p>
+          <h2>Lokasi Kami</h2>
+          <p>Lokasi kantor dan tujuan website</p>
         </div>
 
         <div class="row g-0">
