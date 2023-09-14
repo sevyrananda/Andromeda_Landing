@@ -42,17 +42,17 @@
     <section id="speakers">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <h2>Event Speakers</h2>
-          <p>Here are some of our speakers</p>
+          <h2>Andromeda</h2>
+          <p>solusi manajemen keuangan Anda</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="100">
-              <img src="{{url('TheEvent')}}/assets/img/speakers/1.jpg" alt="Speaker 1" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/dashboard.png" alt="Speaker 1" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Brenden Legros</a></h3>
-                <p>Quas alias incidunt</p>
+                <h3><a href="speaker-details.html">Laporan Ringkasan</a></h3>
+                <p>Berupa grafik pertumbuhan dan total data</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -64,10 +64,10 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="200">
-              <img src="{{url('TheEvent')}}/assets/img/speakers/2.jpg" alt="Speaker 2" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/transaksi-jaminan.png" alt="Speaker 2" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Hubert Hirthe</a></h3>
-                <p>Consequuntur odio aut</p>
+                <h3><a href="speaker-details.html">Transaksi Jaminan</a></h3>
+                <p>berdasarkan data-data Nasabah</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -79,10 +79,10 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="300">
-              <img src="{{url('TheEvent')}}/assets/img/speakers/3.jpg" alt="Speaker 3" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/rekening-simpanan.png" alt="Speaker 3" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Cole Emmerich</a></h3>
-                <p>Fugiat laborum et</p>
+                <h3><a href="speaker-details.html">Simpnanan Nasabah</a></h3>
+                <p>berdasarkan data-data Nasabah</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -94,10 +94,10 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="100">
-              <img src="{{url('TheEvent')}}/assets/img/speakers/4.jpg" alt="Speaker 4" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/register-nasabah.png" alt="Speaker 4" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Jack Christiansen</a></h3>
-                <p>Debitis iure vero</p>
+                <h3><a href="speaker-details.html">Register Nasabah</a></h3>
+                <p>berdasarkan data-data Nasabah</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -109,10 +109,10 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="200">
-              <img src="{{url('TheEvent')}}/assets/img/speakers/5.jpg" alt="Speaker 5" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/neraca-harian.png" alt="Speaker 5" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Alejandrin Littel</a></h3>
-                <p>Qui molestiae natus</p>
+                <h3><a href="speaker-details.html">Neraca Harian</a></h3>
+                <p>berdasarkan data-data Nasabah</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -424,7 +424,7 @@
 
       </div>
 
-      <div class="container-fluid venue-gallery-container" data-aos="fade-up" data-aos-delay="100">
+      <!-- <div class="container-fluid venue-gallery-container" data-aos="fade-up" data-aos-delay="100">
         <div class="row g-0">
 
           <div class="col-lg-3 col-md-4">
@@ -492,7 +492,7 @@
           </div>
 
         </div>
-      </div>
+      </div> -->
 
     </section><!-- End Venue Section -->
 
@@ -544,7 +544,7 @@
           <div class="col-lg-4 col-md-6">
             <div class="hotel">
               <div class="hotel-img">
-                <img src="{{url('TheEvent')}}/assets/img/hotels/platform.jpg" alt="Hotel 3" class="img-fluid">
+                <img src="{{url('TheEvent')}}/assets/img/hotels/platform1.jpg" alt="Hotel 3" class="img-fluid">
               </div>
               <h3><a href="#">Multiplatform</a></h3>
               <div class="stars">
@@ -600,13 +600,13 @@
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/sponsor.png" class="img-fluid" alt="">
+              <img src="https://smartcoop.id/storage//filemanager/KOPERASI%20DEFAULT.png" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/S2.png" class="img-fluid" alt="">
+              <img src="https://smartcoop.id/storage//filemanager/KSP%20Aman%20Digital%20Indonesia.png" class="img-fluid" alt="">
             </div>
           </div>
 
