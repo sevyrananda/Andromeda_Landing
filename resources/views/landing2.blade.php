@@ -124,9 +124,9 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="300">
-              <img src="{{url('TheEvent')}}/assets/img/speakers/6.jpg" alt="Speaker 6" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/notasi-kas.png" alt="Speaker 6" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Willow Trantow</a></h3>
+                <h3><a href="speaker-details.html">Kas</a></h3>
                 <p>Non autem dicta</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
