@@ -1435,7 +1435,7 @@
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h4>Alamat Email:</h4>
-                <p>cs@marstech.co.id</p>
+                <p>cs@andromeda.co.id</p>
               </div>
             </div><!-- End Info Item -->
 

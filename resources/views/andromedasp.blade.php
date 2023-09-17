@@ -57,7 +57,7 @@
   </section><!-- End Cliens Section -->
 
   <!-- ======= About Us Section ======= -->
-  <section id="about" class="about">
+  <!-- <section id="about" class="about">
     <div class="container" data-aos="fade-up">
 
       <div class="section-title">
@@ -77,7 +77,8 @@
         </div>
       </div>
     </div>
-  </section><!-- End About Us Section -->
+  </section> -->
+  <!-- End About Us Section -->
 
   <!-- ======= Why Us Section ======= -->
   <section id="why-us" class="why-us section-bg">
@@ -356,7 +357,7 @@
               Gadang - Sukun - Kota Malang - Jawa Timur<br><br>
               <strong>TELP:</strong> 0811-2501-827<br>
               <strong>WA:</strong> 0811-2501-827<br>
-              <strong>Email:</strong> cs@marstech.co.id<br>
+              <strong>Email:</strong> cs@andromeda.co.id<br>
             </p>
 
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>

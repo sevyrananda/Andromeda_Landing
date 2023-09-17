@@ -8,10 +8,10 @@
       <p class="mb-4 pb-0">Solusi terbaik untuk manajemen keuangan Anda</p>
       <a href="https://youtu.be/4ZoWQeCO0CI" class="glightbox play-btn mb-4"></a>
       <p class="mb-1 pb-0">Getting Start to</p>
-        <row>
-            <a href="{{ route('andromedapos') }}" class="about-btn scrollto">Andromeda POS</a>
-            <a href="{{ route('andromedasp') }}" class="about-btn scrollto">Andromeda SP</a>
-        </row>
+      <row>
+          <a href="{{ route('andromedapos') }}" class="about-btn scrollto">Andromeda POS</a>
+          <a href="{{ route('andromedasp') }}" class="about-btn scrollto">Andromeda SP</a>
+      </row>
     </div>
   </section><!-- End Hero Section -->
 
@@ -81,7 +81,7 @@
             <div class="speaker" data-aos="fade-up" data-aos-delay="300">
               <img src="{{url('TheEvent')}}/assets/img/speakers/rekening-simpanan.png" alt="Speaker 3" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Simpnanan Nasabah</a></h3>
+                <h3><a href="speaker-details.html">Simpanan Nasabah</a></h3>
                 <p>berdasarkan data-data Nasabah</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
@@ -146,20 +146,20 @@
     <section id="schedule" class="section-with-bg">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <h2>Event Schedule</h2>
-          <p>Here is our event schedule</p>
+          <h2>POS VS SP</h2>
+          <p>Point of Sell atau Simpan Pinjam yang anda butuhkan?</p>
         </div>
 
         <ul class="nav nav-tabs" role="tablist" data-aos="fade-up" data-aos-delay="100">
           <li class="nav-item">
-            <a class="nav-link active" href="#day-1" role="tab" data-bs-toggle="tab">Day 1</a>
+            <a class="nav-link active" href="#day-1" role="tab" data-bs-toggle="tab">Andromeda POS</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#day-2" role="tab" data-bs-toggle="tab">Day 2</a>
+            <a class="nav-link" href="#day-2" role="tab" data-bs-toggle="tab">Andromeda SP</a>
           </li>
-          <li class="nav-item">
+          <!-- <li class="nav-item">
             <a class="nav-link" href="#day-3" role="tab" data-bs-toggle="tab">Day 3</a>
-          </li>
+          </li> -->
         </ul>
 
         <h3 class="sub-heading">Voluptatem nulla veniam soluta et corrupti consequatur neque eveniet officia. Eius
@@ -320,7 +320,7 @@
           <!-- End Schdule Day 2 -->
 
           <!-- Schdule Day 3 -->
-          <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-3">
+          <!-- <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-3">
 
             <div class="row schedule-item">
               <div class="col-md-2"><time>10:00 AM</time></div>
@@ -388,7 +388,7 @@
               </div>
             </div>
 
-          </div>
+          </div> -->
           <!-- End Schdule Day 2 -->
 
         </div>
@@ -397,104 +397,6 @@
 
     </section><!-- End Schedule Section -->
 
-    <!-- ======= Venue Section ======= -->
-    <section id="venue">
-
-      <div class="container-fluid" data-aos="fade-up">
-
-        <div class="section-header">
-          <h2>Lokasi Kami</h2>
-          <p>Lokasi kantor dan tujuan website</p>
-        </div>
-
-        <div class="row g-0">
-          <div class="col-lg-6 venue-map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" frameborder="0" style="border:0" allowfullscreen></iframe>
-          </div>
-
-          <div class="col-lg-6 venue-info">
-            <div class="row justify-content-center">
-              <div class="col-11 col-lg-8 position-relative">
-                <h3>Web Koperasi Simpan Pinjam</h3>
-                <p>Sebuah situs web yang digunakan oleh koperasi simpan pinjam untuk memberikan informasi dan layanan kepada anggota koperasi dan calon anggota. Situs web ini biasanya menyediakan informasi tentang produk dan layanan koperasi, seperti suku bunga simpanan, suku bunga pinjaman, jenis pinjaman yang tersedia, persyaratan dan syarat untuk bergabung dengan koperasi, dan berbagai informasi terkait koperasi simpan pinjam.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-
-      </div>
-
-      <!-- <div class="container-fluid venue-gallery-container" data-aos="fade-up" data-aos-delay="100">
-        <div class="row g-0">
-
-          <div class="col-lg-3 col-md-4">
-            <div class="venue-gallery">
-              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/1.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/1.jpg" alt="" class="img-fluid">
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4">
-            <div class="venue-gallery">
-              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/2.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/2.jpg" alt="" class="img-fluid">
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4">
-            <div class="venue-gallery">
-              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/3.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/3.jpg" alt="" class="img-fluid">
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4">
-            <div class="venue-gallery">
-              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/4.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/4.jpg" alt="" class="img-fluid">
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4">
-            <div class="venue-gallery">
-              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/5.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/5.jpg" alt="" class="img-fluid">
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4">
-            <div class="venue-gallery">
-              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/6.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/6.jpg" alt="" class="img-fluid">
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4">
-            <div class="venue-gallery">
-              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/7.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/7.jpg" alt="" class="img-fluid">
-              </a>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-4">
-            <div class="venue-gallery">
-              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/8.jpg" class="glightbox" data-gall="venue-gallery">
-                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/8.jpg" alt="" class="img-fluid">
-              </a>
-            </div>
-          </div>
-
-        </div>
-      </div> -->
-
-    </section><!-- End Venue Section -->
 
     <!-- ======= Hotels Section ======= -->
     <section id="hotels" class="section-with-bg">
@@ -600,49 +502,59 @@
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="https://smartcoop.id/storage//filemanager/KOPERASI%20DEFAULT.png" class="img-fluid" alt="">
+              <!-- <img src="https://smartcoop.id/storage//filemanager/KOPERASI%20DEFAULT.png" class="img-fluid" alt=""> -->
+              <img src="https://ik.imagekit.io/tvlk/blog/2020/01/Traveloka_Primary_Logo.png?tr=dpr-2,w-675" class="img-fluid" alt="">
+              <!-- <img src="{{url('TheEvent')}}/assets/img/supporters/S1.png" class="img-fluid" alt=""> -->
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="https://smartcoop.id/storage//filemanager/KSP%20Aman%20Digital%20Indonesia.png" class="img-fluid" alt="">
+              <!-- <img src="https://smartcoop.id/storage//filemanager/KSP%20Aman%20Digital%20Indonesia.png" class="img-fluid" alt=""> -->
+              <img src="https://img.freepik.com/free-vector/logo-template-design_1222-85.jpg?w=740&t=st=1694953114~exp=1694953714~hmac=e061901896cdebcf24aca979040faec98d0406d5e9bbac16a57038d594859ae6" class="img-fluid" alt="">
+              <!-- <img src="{{url('TheEvent')}}/assets/img/supporters/S2.png" class="img-fluid" alt=""> -->
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/S3.png" class="img-fluid" alt="">
+              <img src="https://img.freepik.com/free-vector/mountain-hiking-club-logo_23-2148631162.jpg?w=740&t=st=1694953148~exp=1694953748~hmac=6020da44b3c6efb6e7cbea7900f86adfd27a8a590eab082f6dc3262addff6909" class="img-fluid" alt="">
+              <!-- <img src="{{url('TheEvent')}}/assets/img/supporters/S3.png" class="img-fluid" alt=""> -->
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/S4.png" class="img-fluid" alt="">
+              <img src="https://img.freepik.com/free-vector/sunshine-logo-template_23-2149397082.jpg?w=740&t=st=1694953269~exp=1694953869~hmac=49d83f38ddcd14169b4ecb7597b1137e08c101541a27209f664413ef489a77e5" class="img-fluid" alt="">
+              <!-- <img src="{{url('TheEvent')}}/assets/img/supporters/S4.png" class="img-fluid" alt=""> -->
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/S5.png" class="img-fluid" alt="">
+              <img src="https://img.freepik.com/premium-vector/nature-life-logo-design-template-nature-logo-template-vector-illustration_194708-2580.jpg?w=740" class="img-fluid" alt="">
+              <!-- <img src="{{url('TheEvent')}}/assets/img/supporters/S5.png" class="img-fluid" alt=""> -->
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/S6.png" class="img-fluid" alt="">
+              <img src="https://img.freepik.com/free-vector/letter-s-logo-negative-space-style-corporate-business-emblem-logotype_126523-2780.jpg?w=1060&t=st=1694953354~exp=1694953954~hmac=1c9c99ef9f3b1c310df71c6dbbe478a51e3aff8b2cabeb6e43c2be87afc5b29e" class="img-fluid" alt="">
+              <!-- <img src="{{url('TheEvent')}}/assets/img/supporters/S6.png" class="img-fluid" alt=""> -->
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/S7.png" class="img-fluid" alt="">
+              <img src="https://img.freepik.com/free-vector/gradient-go-logo-template_52683-65769.jpg?w=1060&t=st=1694953390~exp=1694953990~hmac=653d21ffc9b6822204371bbf98087f86f1a8e3fd6e3e10c0809d30e85476d6f1" class="img-fluid" alt="">
+              <!-- <img src="{{url('TheEvent')}}/assets/img/supporters/S7.png" class="img-fluid" alt=""> -->
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{url('TheEvent')}}/assets/img/supporters/S8.png" class="img-fluid" alt="">
+              <img src="https://img.freepik.com/free-vector/bicycle-shop-logo-design-vector_53876-40626.jpg?w=740&t=st=1694953435~exp=1694954035~hmac=0926f3cc5f225ae52a80b7ed347743c75b006cfce7a4b5f7b477964851e89b33" class="img-fluid" alt="">
+              <!-- <img src="{{url('TheEvent')}}/assets/img/supporters/S8.png" class="img-fluid" alt=""> -->
             </div>
           </div>
 
@@ -931,6 +843,106 @@
       </div>
     </section> -->
     <!-- End Contact Section -->
+
+    
+    <!-- ======= Venue Section ======= -->
+    <section id="venue">
+
+      <div class="container-fluid" data-aos="fade-up">
+
+        <div class="section-header">
+          <h2>Lokasi Kami</h2>
+          <p>Lokasi kantor dan tujuan website</p>
+        </div>
+
+        <div class="row g-0">
+          <div class="col-lg-6 venue-map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" frameborder="0" style="border:0" allowfullscreen></iframe>
+          </div>
+
+          <div class="col-lg-6 venue-info">
+            <div class="row justify-content-center">
+              <div class="col-11 col-lg-8 position-relative">
+                <h3>Web Koperasi Simpan Pinjam</h3>
+                <p>Sebuah situs web yang digunakan oleh koperasi simpan pinjam untuk memberikan informasi dan layanan kepada anggota koperasi dan calon anggota. Situs web ini biasanya menyediakan informasi tentang produk dan layanan koperasi, seperti suku bunga simpanan, suku bunga pinjaman, jenis pinjaman yang tersedia, persyaratan dan syarat untuk bergabung dengan koperasi, dan berbagai informasi terkait koperasi simpan pinjam.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- <div class="container-fluid venue-gallery-container" data-aos="fade-up" data-aos-delay="100">
+        <div class="row g-0">
+
+          <div class="col-lg-3 col-md-4">
+            <div class="venue-gallery">
+              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/1.jpg" class="glightbox" data-gall="venue-gallery">
+                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/1.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="venue-gallery">
+              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/2.jpg" class="glightbox" data-gall="venue-gallery">
+                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/2.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="venue-gallery">
+              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/3.jpg" class="glightbox" data-gall="venue-gallery">
+                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/3.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="venue-gallery">
+              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/4.jpg" class="glightbox" data-gall="venue-gallery">
+                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/4.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="venue-gallery">
+              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/5.jpg" class="glightbox" data-gall="venue-gallery">
+                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/5.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="venue-gallery">
+              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/6.jpg" class="glightbox" data-gall="venue-gallery">
+                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/6.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="venue-gallery">
+              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/7.jpg" class="glightbox" data-gall="venue-gallery">
+                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/7.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="venue-gallery">
+              <a href="{{url('TheEvent')}}/assets/img/venue-gallery/8.jpg" class="glightbox" data-gall="venue-gallery">
+                <img src="{{url('TheEvent')}}/assets/img/venue-gallery/8.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+        </div>
+      </div> -->
+
+    </section><!-- End Venue Section -->
 
   </main><!-- End #main -->
   
