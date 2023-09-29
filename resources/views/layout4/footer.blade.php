@@ -5,15 +5,15 @@
        <div class="row">
 
          <div class="col-lg-3 col-md-6 footer-info">
-           <img src="{{url('TheEvent')}}/assets/img/logo.png" alt="TheEvenet">
+           <img src="{{url('TheEvent')}}/assets/img/andromeda.png" alt="TheEvenet">
            <p>ANDROMEDA merupakan sistem aplikasi simpan pinjam koperasi adalah platform perangkat lunak yang dirancang khusus untuk membantu koperasi dalam mengelola keuangan, anggota, dan transaksi simpan pinjam.</p>
          </div>
 
          <div class="col-lg-3 col-md-6 footer-links">
            <h4>PRODUK</h4>
            <ul>
-             <li><i class="bi bi-chevron-right"></i> <a href="#">Andromeda SP</a></li>
-             <li><i class="bi bi-chevron-right"></i> <a href="#">Andromeda Pos</a></li>
+             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('andromedasp') }}">Andromeda SP</a></li>
+             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('andromedapos') }}">Andromeda Pos</a></li>
              <!-- <li><i class="bi bi-chevron-right"></i> <a href="#">Services</a></li>
              <li><i class="bi bi-chevron-right"></i> <a href="#">Terms of service</a></li>
              <li><i class="bi bi-chevron-right"></i> <a href="#">Privacy policy</a></li> -->
@@ -57,7 +57,7 @@
 
    <div class="container">
      <div class="copyright">
-       &copy; Copyright <strong>Marstech</strong>. All Rights Reserved
+       &copy; Copyright <strong>Andromeda</strong>. All Rights Reserved
      </div>
      <div class="credits">
        <!--

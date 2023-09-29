@@ -17,7 +17,7 @@ use App\Http\Controllers\landing2Controller;
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('landing2');
 });
 
 // Route::get('/hello', [dashbordController::class, 'hello'])->name('alam');
