@@ -12,13 +12,13 @@
       <div class="col-lg-3 col-md-6 footer-links">
         <h4>Produk</h4>
         <ul>
-          <li><i class="bx bx-chevron-right"></i> <a href="{{ route('andromedasp') }}">Andromeda SP</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="{{ route('andromedapos') }}" >Andromeda POS </a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="{{ route('andromedasp') }}">Godong SP</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="{{ route('andromedapos') }}" >Godong POS </a></li>
         </ul>
       </div>
 
       <div class="col-lg-2 col-md-6 footer-links">
-        <h4>Tentang Andromeda</h4>
+        <h4>Tentang Godong</h4>
         <ul>
           <li><i class="bx bx-chevron-right"></i><a href="#">Perusahaan</a></li>
           <li><i class="bx bx-chevron-right"></i><a href="#">Partner Resmi</a></li>
@@ -34,7 +34,7 @@
             Gadang - Sukun - Kota Malang - Jawa Timur<br><br>
             <strong>TELP:</strong> 0811-2501-827<br>
             <strong>WA:</strong> 0811-2501-827<br>
-            <strong>Email:</strong> cs@Andromeda.co.id<br>
+            <strong>Email:</strong> cs@Godong.co.id<br>
           </p>
 
       </div>
@@ -45,7 +45,7 @@
 
 <div class="container footer-bottom clearfix">
   <div class="copyright">
-    &copy; Copyright <strong><span>Andromeda</span></strong>. All Rights Reserved
+    &copy; Copyright <strong><span>Godong</span></strong>. All Rights Reserved
   </div>
   <div class="credits">
     <!-- All the links in the footer should remain intact. -->

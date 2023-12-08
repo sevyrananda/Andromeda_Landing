@@ -1,11 +1,11 @@
 @extends('layout3.app')
 @section('content')
 <!-- ======= Hero Section ======= -->
-<section id="hero" class="d-flex align-items-center" style="background-color:#820000;">
+<section id="hero" class="d-flex align-items-center" style="background-color:#3d4938;">
   <div class="container">
     <div class="row">
       <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1" data-aos="fade-up" data-aos-delay="200">
-        <h1>WELCOME TO ANDROMEDA POS</h1>
+        <h1>WELCOME TO GODONG POS</h1>
         <h2>Inventori, Project, dan Payroll TERINTEGRASI</h2>
         <div class="d-flex justify-content-center justify-content-lg-start">
           <a href="#about" class="btn-get-started scrollto">Get Started</a>
@@ -54,34 +54,7 @@
     </div>
   </section><!-- End Cliens Section -->
 
-  <!-- ======= About Us Section ======= -->
-  <!-- <section id="about" class="about">
-    <div class="container" data-aos="fade-up">
-
-      <div class="section-title">
-        <h2>About Us</h2>
-      </div>
-
-      <div class="row content">
-        <div class="col-lg-250">
-          <p>
-            Software akuntansi untuk memudahkan pemilik bisnis dan akuntan untuk mengerjakan dan menganalisa keuangan lebih cepat, mudah dan akurat. Gratis trial atau demo gratis dengan Tim Andromeda.
-          </p>
-          <ul>
-            <li><i class="ri-check-double-line"></i> Terpercaya</li>
-            <li><i class="ri-check-double-line"></i> Akurat</li>
-            <li><i class="ri-check-double-line"></i> Mudah Dipahami</li>
-          </ul>
-        </div>
-        <div class="col-lg-6 pt-4 pt-lg-0">
-          <a href="#" class="btn-learn-more">Learn More</a>
-        </div>
-      </div>
-
-    </div>
-  </section> -->
-  <!-- End About Us Section -->
-
+  
   <!-- ======= Why Us Section ======= -->
   <section id="why-us" class="why-us section-bg">
     <div class="container-fluid" data-aos="fade-up">
@@ -91,10 +64,7 @@
         <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
           <div class="content">
-            <h3><strong>Manfaat Aplikasi ANDROMEDA</strong></h3>
-            <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-            </p>
+            <h3><strong>Manfaat Aplikasi GODONG</strong></h3>
           </div>
 
           <div class="accordion-list">
@@ -155,7 +125,7 @@
 
       <div class="section-title">
         <h2>Services</h2>
-        <p>ANDROMEDA</p>
+      
       </div>
 
       <div class="row">
@@ -202,6 +172,364 @@
   </div>
   </section><!-- End Portfolio Section -->
 
+  <html lang="en">
+      <head>
+          <!-- Masukkan tag <head> untuk mengatur CSS, judul, dll. -->
+          <style>
+              .grid-item {
+                  display: flex;
+                  flex-direction: column;
+                  align-items: center;
+                  text-align: center;
+              }
+          </style>
+      </head>
+      <body>
+          {{-- Route Modal Plugin --}}
+          <script>
+              document.addEventListener("DOMContentLoaded", function() {
+                  // Function to set the size of the logos
+                  function setLogoSize(logoClass, width, height) {
+                      const logos = document.querySelectorAll(logoClass);
+                      logos.forEach((logo) => {
+                          logo.style.width = width;
+                          logo.style.height = height;
+                      });
+                  }
+
+                  // Set the size of the logos (you can adjust the width and height values)
+                  setLogoSize(".small-logo", "100px", "100px");
+              });
+
+              // Function to display the modal with the specified content
+              function showModal(modalId) {
+                  var modal = new bootstrap.Modal(document.getElementById(modalId));
+                  modal.show();
+              }
+
+              // Add click event listeners for each logo
+              // Logo 1 (Plugin Master Menu Bank & E-Commerce)
+              document.querySelector(".col-md-3.grid-item:nth-child(1)").addEventListener("click", function() {
+                  showModal("modal1");
+              });
+
+              // Logo 2 (Plugin Master Barcode Form Add)
+              document.querySelector(".col-md-3.grid-item:nth-child(2)").addEventListener("click", function() {
+                  showModal("modal2");
+              });
+
+              // Logo 3 (Plugin Master Golongan Jaminan)
+              document.querySelector(".col-md-3.grid-item:nth-child(3)").addEventListener("click", function() {
+                  showModal("modal3");
+              });
+
+              // Logo 4 (Plugin Master Kode Transaksi)
+              document.querySelector(".col-md-3.grid-item:nth-child(4)").addEventListener("click", function() {
+                  showModal("modal4");
+              });
+
+              // Logo 5 (Plugin Master Kode Transaksi)
+              document.querySelector(".col-md-3.grid-item:nth-child(5)").addEventListener("click", function() {
+                  showModal("modal5");
+              });
+
+              // Logo 6 (Plugin Master Kode Transaksi)
+              document.querySelector(".col-md-3.grid-item:nth-child(6)").addEventListener("click", function() {
+                  showModal("modal6");
+              });
+
+              // Logo 7 (Plugin Master Kode Transaksi)
+              document.querySelector(".col-md-3.grid-item:nth-child(7)").addEventListener("click", function() {
+                  showModal("modal7");
+              });
+
+              // Logo 8 (Plugin Master Kode Transaksi)
+              document.querySelector(".col-md-3.grid-item:nth-child(8)").addEventListener("click", function() {
+                  showModal("modal8");
+              });
+
+              function closeModal(modalId) {
+                  var modal = new bootstrap.Modal(document.getElementById(modalId));
+                  modal.hide();
+              }
+          </script>
+
+          <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+          <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+
+          <!-- Modals Plugin-->
+          <div class="modal fade" id="modal1" tabindex="-1" role="dialog"
+              aria-labelledby="modal1Label" aria-hidden="false">
+              <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                      <div class="modal-header">
+                          <h5 class="modal-title" id="modal1Label">Plugin Master Menu Bank & E-Commerce</h5>
+                          <button type="button" class="close" data-dismiss="modal" data-target="#modal1" aria-label="Close">
+                              <span aria-hidden="false">&times;</span>
+                          </button>
+                      </div>
+                      <div class="modal-body">
+                          <p>Plugin ini mendukung berbagai bank dan penyedia layanan pembayaran, mencakup beragam opsi seperti kartu kredit, transfer bank, e-wallet, dan banyak lagi.</p>
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <div class="modal fade" id="modal2" tabindex="-1" role="dialog"
+          aria-labelledby="modal2Label" aria-hidden="false">
+          <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                  <div class="modal-header">
+                      <h5 class="modal-title" id="modal2Label">Plugin Master Menu Barcode</h5>
+                      <button type="button" class="close" data-dismiss="modal" data-target="#modal1" aria-label="Close">
+                          <span aria-hidden="false">&times;</span>
+                      </button>
+                  </div>
+                  <div class="modal-body">
+                      <!-- Informasi yang ingin Anda tambahkan -->
+                      <p>Plugin ini juga dapat terintegrasi dengan sistem POS (Point of Sale) Anda, memberikan kemudahan dalam proses penjualan dan pencatatan data produk.</p>
+                  </div>
+              </div>
+          </div>
+      </div>
+
+      <div class="modal fade" id="modal2" tabindex="-1" role="dialog"
+      aria-labelledby="modal2Label" aria-hidden="false">
+      <div class="modal-dialog" role="document">
+          <div class="modal-content">
+              <div class="modal-header">
+                  <h5 class="modal-title" id="modal2Label">Plugin Master Menu Barcode</h5>
+                  <button type="button" class="close" data-dismiss="modal" data-target="#modal1" aria-label="Close">
+                      <span aria-hidden="false">&times;</span>
+                  </button>
+              </div>
+              <div class="modal-body">
+                  <!-- Informasi yang ingin Anda tambahkan -->
+                  <p>Plugin ini memberikan kemudahan dalam penyusunan laporan keuangan dan memungkinkan Anda untuk membuat keputusan yang lebih baik dalam pengelolaan keuangan Anda.</p>
+              </div>
+          </div>
+      </div>
+  </div>
+
+  <div class="modal fade" id="modal3" tabindex="-1" role="dialog"
+  aria-labelledby="modal3Label" aria-hidden="false">
+  <div class="modal-dialog" role="document">
+      <div class="modal-content">
+          <div class="modal-header">
+              <h5 class="modal-title" id="modal3Label">Plugin Master Menu Golongan Pinjaman</h5>
+              <button type="button" class="close" data-dismiss="modal" data-target="#modal3" aria-label="Close">
+                  <span aria-hidden="false">&times;</span>
+              </button>
+          </div>
+          <div class="modal-body">
+              <!-- Informasi yang ingin Anda tambahkan -->
+              <p>Plugin ini memungkinkan pengguna untuk dengan mudah mengintegrasikan berbagai opsi pembayaran dari berbagai bank dan penyedia layanan pembayaran dalam satu menu yang terstruktur, memberikan pengalaman belanja yang lebih nyaman bagi pelanggan. </p>
+          </div>
+      </div>
+  </div>
+</div>
+
+<div class="modal fade" id="modal4" tabindex="-1" role="dialog" aria-labelledby="modal4Label" aria-hidden="false">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="modal4Label">Plugin Master Menu Kode Transaksi Pinjaman</h5>
+            <button type="button" class="close" data-dismiss="modal" data-target="#kodenModal" aria-label="Close">
+                <span aria-hidden="false">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <!-- Informasi yang ingin Anda tambahkan -->
+            <p>Plugin ini juga memungkinkan Anda untuk dengan cepat mengidentifikasi dan membedakan berbagai jenis transaksi pinjaman, seperti pinjaman pribadi, hipotek, atau bisnis.</p>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="modal5" tabindex="-1" role="dialog" aria-labelledby="modal5Label" aria-hidden="false">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="modal5Label">Plugin 5</h5>
+            <button type="button" class="close" data-dismiss="modal" data-target="#kodenModal" aria-label="Close">
+                <span aria-hidden="false">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <!-- Informasi yang ingin Anda tambahkan -->
+            <p>Plugin ini juga memungkinkan Anda untuk dengan cepat mengidentifikasi dan membedakan berbagai jenis transaksi pinjaman, seperti pinjaman pribadi, hipotek, atau bisnis.</p>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="modal6" tabindex="-1" role="dialog" aria-labelledby="modal6Label" aria-hidden="false">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="modal6Label">Plugin 6</h5>
+            <button type="button" class="close" data-dismiss="modal" data-target="#kodenModal" aria-label="Close">
+                <span aria-hidden="false">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <!-- Informasi yang ingin Anda tambahkan -->
+            <p>Plugin ini juga memungkinkan Anda untuk dengan cepat mengidentifikasi dan membedakan berbagai jenis transaksi pinjaman, seperti pinjaman pribadi, hipotek, atau bisnis.</p>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="modal7" tabindex="-1" role="dialog" aria-labelledby="modal7Label" aria-hidden="false">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="modal7Label">Plugin 7</h5>
+            <button type="button" class="close" data-dismiss="modal" data-target="#kodenModal" aria-label="Close">
+                <span aria-hidden="false">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <!-- Informasi yang ingin Anda tambahkan -->
+            <p>Plugin ini juga memungkinkan Anda untuk dengan cepat mengidentifikasi dan membedakan berbagai jenis transaksi pinjaman, seperti pinjaman pribadi, hipotek, atau bisnis.</p>
+        </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal fade" id="modal8" tabindex="-1" role="dialog" aria-labelledby="modal8Label" aria-hidden="false">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+        <div class="modal-header">
+            <h5 class="modal-title" id="modal8Label">Plugin 8</h5>
+            <button type="button" class="close" data-dismiss="modal" data-target="#kodenModal" aria-label="Close">
+                <span aria-hidden="false">&times;</span>
+            </button>
+        </div>
+        <div class="modal-body">
+            <!-- Informasi yang ingin Anda tambahkan -->
+            <p>Plugin ini juga memungkinkan Anda untuk dengan cepat mengidentifikasi dan membedakan berbagai jenis transaksi pinjaman, seperti pinjaman pribadi, hipotek, atau bisnis.</p>
+        </div>
+    </div>
+  </div>
+</div>
+
+
+
+<section id="plugin" class="plugin section-bg">
+  <div class="container" data-aos="fade-up">
+
+    <div class="section-title">
+      <h2>Our Menu Plugin</h2>
+      </div>
+
+      <div id="carouselExample" class="carousel slide text-center" data-ride="carousel">
+          <div class="carousel-inner">
+              <!-- Slide 1 -->
+              <div class="carousel-item active">
+                  <div class="row">
+                      <!-- Item 1 (Logo 1) -->
+                      <div class="col-sm">
+                          <img src="{{ url('Arsha') }}/assets/img/logo koperasi.png" alt="Logo 1"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal1">
+                      </div>
+
+                      <!-- Item 2 (Logo 2) -->
+                      <div class="col-sm">
+                          <img src="{{ url('Arsha') }}/assets/img/logo koperasi.png" alt="Logo 2"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal2">
+                      </div>
+
+                      <!-- Item 3 (Logo 3) -->
+                      <div class="col-sm">
+                          <img src="{{ url('Arsha') }}/assets/img/logo koperasi.png" alt="Logo 3"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal3">
+                      </div>
+
+                      <!-- Item 4 (Logo 4) -->
+                      <div class="col-sm">
+                          <img src="{{ url('Arsha') }}/assets/img/logo koperasi.png" alt="Logo 4"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal4">
+                      </div>
+
+                      <!-- Item 4 (Logo 4) -->
+                      <div class="col-sm">
+                          <img src="{{ url('Arsha') }}/assets/img/logo koperasi.png" alt="Logo 4"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal4">
+                      </div>
+
+                      <!-- Item 4 (Logo 4) -->
+                      <div class="col-sm">
+                          <img src="{{ url('Arsha') }}/assets/img/logo koperasi.png" alt="Logo 4"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal4">
+                      </div>
+
+                      <!-- Item 4 (Logo 4) -->
+                      <div class="col-sm">
+                          <img src="{{ url('Arsha') }}/assets/img/logo koperasi.png" alt="Logo 4"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal4">
+                      </div>
+
+                      <!-- Item 4 (Logo 4) -->
+                      <div class="col-sm">
+                          <img src="{{ url('Arsha') }}/assets/img/logo koperasi.png" alt="Logo 4"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal4">
+                      </div>
+                  </div>
+              </div>
+
+              <!-- Slide 2 -->
+              <div class="carousel-item">
+                  <div class="row">
+                      <!-- Item 5 (Logo 5) -->
+                      <div class="col-sm">
+                          <img src="{{ url('Arsha') }}/assets/img/logo koperasi.png" alt="Logo 5"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal5">
+                      </div>
+
+                      <!-- Item 6 (Logo 6) -->
+                      <div class="col-sm">
+                          <img src="{{ url('Arsha') }}/assets/img/logo koperasi.png" alt="Logo 6"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal6">
+                      </div>
+
+                      <!-- Item 7 (Logo 7) -->
+                      <div class="col-sm">
+                          <img src="{{ url('Arsha') }}/assets/img/logo koperasi.png" alt="Logo 7"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal7">
+                      </div>
+
+                      <!-- Item 8 (Logo 8) -->
+                      <div class="col-sm">
+                          <img src="{{ url('Arsha') }}/assets/img/logo koperasi.png" alt="Logo 8"
+                              class="small-logo mx-auto p-2" data-toggle="modal" data-target="#modal8">
+                      </div>
+                  </div>
+              </div>
+          </div>
+
+          <!-- Previous and Next Buttons with Adjusted Padding -->
+          <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev" style="color: black; left: -10%;">
+              <span class="carousel-control-prev-icon" aria-hidden="true" style="filter: invert(100%);"></span>
+          </a>
+          <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next" style="color: black; right: -10%;">
+              <span class="carousel-control-next-icon" aria-hidden="true" style="filter: invert(100%);"></span>
+          </a>
+      </div>
+  </div>
+</section>
+
+
+
+
+
+
+
+      </body>
+      </html>
+
+
   <!-- ======= Team Section ======= -->
   <section id="team" class="team section-bg">
     <div class="container" data-aos="fade-up">
@@ -228,7 +556,7 @@
             <div class="pic"><img src="assets/img/team/team-2.jpg" class="img-fluid" alt=""></div>
             <div class="member-info">
               <h4>Miarta, Koperasi Gemilang</h4>
-              <p>Andromeda memiliki tampilan yang sangat user friendly bahkan dengan saya dan team yang sebelumnya buta dengan keuangan koperasi dapat mengerti dengan mudah. Ditambah aplikasi dijalankan dengan browser online sangat membantu update data secara realtime.</p>
+              <p>Godong memiliki tampilan yang sangat user friendly bahkan dengan saya dan team yang sebelumnya buta dengan keuangan koperasi dapat mengerti dengan mudah. Ditambah aplikasi dijalankan dengan browser online sangat membantu update data secara realtime.</p>
             </div>
           </div>
         </div>
@@ -238,7 +566,7 @@
             <div class="pic"><img src="assets/img/team/team-3.jpg" class="img-fluid" alt=""></div>
             <div class="member-info">
               <h4>Penny Dwika Wardani, S.E , KSP Mulia</h4>
-              <p>QMenurut saya Andromeda mudah sekali untuk diakses baik bagi pengelola hingga para anggota koperasi. Selain itu bagi saya selaku pengelola, saya sangat terbantu dalam pembuatan laporan keuangan karena alumnya jelas dan sangat detail, serta hal itu mempermudah pengawas dalam membaca laporan keuangan yg sudah tersedia. Bagi para anggotapun mereka dapat melihat perhitungan SHU yang mereka dapatkan</p>
+              <p>QMenurut saya Godong mudah sekali untuk diakses baik bagi pengelola hingga para anggota koperasi. Selain itu bagi saya selaku pengelola, saya sangat terbantu dalam pembuatan laporan keuangan karena alumnya jelas dan sangat detail, serta hal itu mempermudah pengawas dalam membaca laporan keuangan yg sudah tersedia. Bagi para anggotapun mereka dapat melihat perhitungan SHU yang mereka dapatkan</p>
             </div>
           </div>
         </div>
@@ -248,7 +576,7 @@
             <div class="pic"><img src="assets/img/team/team-4.jpg" class="img-fluid" alt=""></div>
             <div class="member-info">
               <h4>Bagas Prakoso, Koperasi Lancar Makmur</h4>
-              <p>Menurut saya Andromeda sangat membantu kami dalam input data koperasi, selain alur sistem nya yang mudah dipahami, tampilan nya juga sangat menarik sehingga staff kami tidak bingung untuk mnegoperasikan nya.</p>
+              <p>Menurut saya Godong sangat membantu kami dalam input data koperasi, selain alur sistem nya yang mudah dipahami, tampilan nya juga sangat menarik sehingga staff kami tidak bingung untuk mnegoperasikan nya.</p>
             </div>
           </div>
         </div>
@@ -307,7 +635,7 @@
               <li><i class="bx bx-check"></i>Publish di Android Playstore</li>
               <li><i class="bx bx-check"></i>Login tanpa perlu kode koperasi</li>
               <li><i class="bx bx-check"></i>Fitur Barcode</li>
-              <li><i class="bx bx-check"></i>Free update aplikasi menyesuaikan dengan update aplikasi mobile utama Andromeda selama satu tahun</li>
+              <li><i class="bx bx-check"></i>Free update aplikasi menyesuaikan dengan update aplikasi mobile utama Godong selama satu tahun</li>
             </ul>
             <a href="#" class="buy-btn">Get Started</a>
           </div>

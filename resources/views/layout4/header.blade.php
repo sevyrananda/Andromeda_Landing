@@ -5,19 +5,17 @@
       <div id="logo" class="me-auto">
         <!-- Uncomment below if you prefer to use a text logo -->
         <!-- <h1><a href="index.html">The<span>Event</span></a></h1>-->
-        <a href="#" class="scrollto"><img src="{{url('TheEvent')}}/assets/img/andromeda.png" alt="" title=""></a>
+        <a href="#" class="scrollto"><img src="{{url('TheEvent')}}/assets/img/Godong.png" alt="" title=""></a>
       </div>
 
       <!-- <img src="{{url('Arsha')}}/assets/img/andromeda.png" alt="" width="4%">
-      <h1 class="logo me-auto"><a href="">Andromeda</a></h1> -->
+      <h1 class="logo me-auto"><a href="">Godong</a></h1> -->
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">Tentang</a></li>
           <li><a class="nav-link scrollto" href="#speakers">Fitur</a></li>
-          <li><a class="nav-link scrollto" href="#schedule">Schedule</a></li>
-          <li><a class="nav-link scrollto" href="#hotels">Pengguna</a></li>
           <li><a class="nav-link scrollto" href="#gallery">Galeri</a></li>
           <li><a class="nav-link scrollto" href="#supporters">Klien Kami</a></li>
           <li><a class="nav-link scrollto" href="#venue">Lokasi</a></li>
@@ -42,7 +40,7 @@
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
-      <a class="buy-tickets scrollto" href="#buy-tickets">LOGIN</a>
+      <a class="buy-tickets scrollto" href="#buy-tickets">DOWNLOAD</a>
 
     </div>
   </header><!-- End Header -->

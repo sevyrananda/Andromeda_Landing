@@ -16,7 +16,7 @@
           Video</span></a>
     </div>
     <div>
-      <img src="HeroBiz/assets/img/diko-sp-2.png" alt="" style="width: 100%;">
+      <img src="Arsha/assets/img/diko-sp-2.png" alt="" style="width: 100%;">
     </div>
   </div>
 </section>
@@ -32,7 +32,7 @@
         <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out">
           <div class="service-item position-relative">
             <div class="icon">
-              <img src="{{url('HeroBiz')}}/time-management.png" alt="manage" width="50" height="50">
+              <img src="{{url('Arsha')}}/time-management.png" alt="manage" width="50" height="50">
               <!-- <i class="bi bi-activity icon"></i> -->
             </div>
             <!-- <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4> -->
@@ -44,7 +44,7 @@
         <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="200">
           <div class="service-item position-relative">
             <div class="icon">
-              <img src="{{url('HeroBiz')}}/global-network.png" alt="network" width="45" height="45">
+              <img src="{{url('Arsha')}}/global-network.png" alt="network" width="45" height="45">
               <!-- <i class="bi bi-bounding-box-circles icon"></i> -->
             </div>
             <!-- <h4><a href="" class="stretched-link">Sed ut perspici</a></h4> -->
@@ -56,7 +56,7 @@
         <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
           <div class="service-item position-relative">
             <div class="icon">
-              <img src="{{url('HeroBiz')}}/transaction.png" alt="transaction" width="45" height="45">
+              <img src="{{url('Arsha')}}/transaction.png" alt="transaction" width="45" height="45">
               <!-- <i class="bi bi-calendar4-week icon"></i> -->
             </div>
             <!-- <h4><a href="" class="stretched-link">Magni Dolores</a></h4> -->
@@ -69,7 +69,7 @@
           <div class="service-item position-relative">
             <div class="icon">
               <!-- <i class="bi bi-broadcast icon"></i> -->
-              <img src="{{url('HeroBiz')}}/responsive-design.png" alt="device" width="45" height="45">
+              <img src="{{url('Arsha')}}/responsive-design.png" alt="device" width="45" height="45">
             </div>
             <!-- <h4><a href="" class="stretched-link">Nemo Enim</a></h4> -->
             <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Nikmati kemudahan akses melalui semua
@@ -300,7 +300,7 @@
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link active show" data-bs-toggle="tab" data-bs-target="#tab-1">
           <i class="bi bi-cash-coin color-teal"></i>
-            <!-- <img src="{{url('HeroBiz')}}/integration.png" alt="integration" width="50" height="50"> -->
+            <!-- <img src="{{url('Arsha')}}/integration.png" alt="integration" width="50" height="50"> -->
             <h4>Sekali Bayar</h4>
           </a>
         </li><!-- End Tab 1 Nav -->
@@ -308,7 +308,7 @@
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-2">
           <i class="bi bi-shield-check color-cyan"></i>
-            <!-- <img src="{{url('HeroBiz')}}/shield.png" alt="monitor" width="50" height="50"> -->
+            <!-- <img src="{{url('Arsha')}}/shield.png" alt="monitor" width="50" height="50"> -->
             <h4>Keamanan</h4>
           </a>
         </li><!-- End Tab 2 Nav -->
@@ -316,7 +316,7 @@
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-3">
           <i class="bi bi-binoculars color-indigo"></i>
-            <!-- <img src="{{url('HeroBiz')}}/monitor.png" alt="monitor" width="50" height="50"> -->
+            <!-- <img src="{{url('Arsha')}}/monitor.png" alt="monitor" width="50" height="50"> -->
             <h4>Pemantauan</h4>
           </a>
         </li><!-- End Tab 3 Nav -->
@@ -324,7 +324,7 @@
         <li class="nav-item col-6 col-md-4 col-lg-2">
           <a class="nav-link" data-bs-toggle="tab" data-bs-target="#tab-4">
           <i class="bi bi-clock-history color-red"></i>
-            <!-- <img src="{{url('HeroBiz')}}/stopwatch.png" alt="monitor" width="50" height="50"> -->
+            <!-- <img src="{{url('Arsha')}}/stopwatch.png" alt="monitor" width="50" height="50"> -->
             <h4>RealTime</h4>
           </a>
         </li><!-- End Tab 4 Nav -->
@@ -374,7 +374,7 @@
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center" data-aos="fade-up" data-aos-delay="200">
 
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-3.png" alt="" class="img-fluid" style="width:200px">
+              <img src="{{url('Arsha')}}/assets/img/new-features-3.png" alt="" class="img-fluid" style="width:200px">
             </div>
           </div>
         </div><!-- End Tab Content 1 -->
@@ -407,7 +407,7 @@
                 </ul> -->
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-1.png" alt="" class="img-fluid" style="width:200px">
+              <img src="{{url('Arsha')}}/assets/img/new-features-1.png" alt="" class="img-fluid" style="width:200px">
             </div>
           </div>
         </div><!-- End Tab Content 2 -->
@@ -435,7 +435,7 @@
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
 
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-2.png" alt="" class="img-fluid" style="width:200px">
+              <img src="{{url('Arsha')}}/assets/img/new-features-2.png" alt="" class="img-fluid" style="width:200px">
             </div>
           </div>
         </div><!-- End Tab Content 3 -->
@@ -464,7 +464,7 @@
                 </ul> -->
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
-              <img src="{{url('HeroBiz')}}/assets/img/new-features-4.png" alt="" class="img-fluid" style="width:200px">
+              <img src="{{url('Arsha')}}/assets/img/new-features-4.png" alt="" class="img-fluid" style="width:200px">
             </div>
           </div>
         </div><!-- End Tab Content 4 -->
@@ -496,7 +496,7 @@
               </ul>
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
-              <img src="{{url('HeroBiz')}}/assets/img/features-5.svg" alt="" class="img-fluid">
+              <img src="{{url('Arsha')}}/assets/img/features-5.svg" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 5 -->
@@ -528,7 +528,7 @@
               </ul>
             </div>
             <div class="col-lg-4 order-1 order-lg-2 text-center">
-              <img src="{{url('HeroBiz')}}/assets/img/features-6.svg" alt="" class="img-fluid">
+              <img src="{{url('Arsha')}}/assets/img/features-6.svg" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 6 -->
@@ -555,10 +555,10 @@
             <div class="img">
 
               
-              <!-- <img src="{{url('HeroBiz')}}/assets/img/register.jpg" class="img-fluid" alt=""> -->
+              <!-- <img src="{{url('Arsha')}}/assets/img/register.jpg" class="img-fluid" alt=""> -->
             
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/register.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/register.jpg" class="img-fluid" alt="">
+              <a href="{{url('Arsha')}}/assets/img/fitur/register.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('Arsha')}}/assets/img/fitur/register.jpg" class="img-fluid" alt="">
               </a>
 
             </div>
@@ -580,8 +580,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="300">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/kas.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/kas.jpg" class="img-fluid" alt="">
+              <a href="{{url('Arsha')}}/assets/img/fitur/kas.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('Arsha')}}/assets/img/fitur/kas.jpg" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -600,8 +600,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="400">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/jadwal angsuran.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/jadwal angsuran.jpg" class="img-fluid" alt="">
+              <a href="{{url('Arsha')}}/assets/img/fitur/jadwal angsuran.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('Arsha')}}/assets/img/fitur/jadwal angsuran.jpg" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -619,8 +619,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="500">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/buku simpanan.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/buku simpanan.jpg" class="img-fluid" alt="">
+              <a href="{{url('Arsha')}}/assets/img/fitur/buku simpanan.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('Arsha')}}/assets/img/fitur/buku simpanan.jpg" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -639,8 +639,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="600">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/cetak bilyet.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/cetak bilyet.jpg" class="img-fluid" alt="">
+              <a href="{{url('Arsha')}}/assets/img/fitur/cetak bilyet.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('Arsha')}}/assets/img/fitur/cetak bilyet.jpg" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -659,8 +659,8 @@
         <div class="col-xl-4 col-md-6" data-aos="zoom-in" data-aos-delay="700">
           <div class="service-item">
             <div class="img">
-              <a href="{{url('HeroBiz')}}/assets/img/fitur/laporan.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
-                <img src="{{url('HeroBiz')}}/assets/img/fitur/laporan.jpg" class="img-fluid" alt="">
+              <a href="{{url('Arsha')}}/assets/img/fitur/laporan.jpg" data-gallery="fitur-gallery" class="glightbox preview-link">
+                <img src="{{url('Arsha')}}/assets/img/fitur/laporan.jpg" class="img-fluid" alt="">
               </a>
             </div>
             <div class="details position-relative">
@@ -690,7 +690,7 @@
 
           <!-- <div class="swiper-slide">
             <div class="testimonial-item">
-              <img src="{{url('HeroBiz')}}/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
+              <img src="{{url('Arsha')}}/assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
               <h3>Saul Goodman</h3>
               <h4>Ceo &amp; Founder</h4>
               <div class="stars">
@@ -708,7 +708,7 @@
 
           <!-- <div class="swiper-slide">
             <div class="testimonial-item">
-              <img src="{{url('HeroBiz')}}/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
+              <img src="{{url('Arsha')}}/assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
               <h3>Sara Wilsson</h3>
               <h4>Designer</h4>
               <div class="stars">
@@ -726,7 +726,7 @@
 
           <!-- <div class="swiper-slide">
             <div class="testimonial-item">
-              <img src="{{url('HeroBiz')}}/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
+              <img src="{{url('Arsha')}}/assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
               <h3>Jena Karlis</h3>
               <h4>Store Owner</h4>
               <div class="stars">
@@ -744,7 +744,7 @@
 
           <!-- <div class="swiper-slide">
             <div class="testimonial-item">
-              <img src="{{url('HeroBiz')}}/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+              <img src="{{url('Arsha')}}/assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
               <h3>Matt Brandon</h3>
               <h4>Freelancer</h4>
               <div class="stars">
@@ -762,7 +762,7 @@
 
           <!-- <div class="swiper-slide">
             <div class="testimonial-item">
-              <img src="{{url('HeroBiz')}}/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
+              <img src="{{url('Arsha')}}/assets/img/testimonials/testimonials-5.jpg" class="testimonial-img" alt="">
               <h3>John Larson</h3>
               <h4>Entrepreneur</h4>
               <div class="stars">
@@ -1078,120 +1078,120 @@
         <div class="row g-0 portfolio-container">
 
           <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books">
-            <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-accounting.jpg" class="img-fluid" alt="">
+            <img src="{{url('Arsha')}}/assets/img/portfolio/pf-accounting.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Akuntansi</h4>
-              <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-accounting.jpg" title="Akuntansi" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              <a href="{{url('Arsha')}}/assets/img/portfolio/pf-accounting.jpg" title="Akuntansi" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
           </div>
           <!-- End Portfolio Item -->
 
           <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product">
-            <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-desktop.png" class="img-fluid" alt="">
+            <img src="{{url('Arsha')}}/assets/img/portfolio/pf-desktop.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>DIKO POS</h4>
-              <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-desktop.png" title="DIKO POS" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              <a href="{{url('Arsha')}}/assets/img/portfolio/pf-desktop.png" title="DIKO POS" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
           </div>
           <!-- End Portfolio Item -->
 
           <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
-            <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-DIKO TRANSPARANT.png" class="img-fluid" alt="">
+            <img src="{{url('Arsha')}}/assets/img/portfolio/pf-DIKO TRANSPARANT.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>DIKO's Logo</h4>
-              <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-DIKO TRANSPARANT.png" title="DIKO's Logo" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              <a href="{{url('Arsha')}}/assets/img/portfolio/pf-DIKO TRANSPARANT.png" title="DIKO's Logo" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
           </div>
           <!-- End Portfolio Item -->
 
           <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-mobile2.png" class="img-fluid" alt="">
+            <img src="{{url('Arsha')}}/assets/img/portfolio/pf-mobile2.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>DIKO's Blog</h4>
-              <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-mobile2.png" title="DIKO's Blog" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              <a href="{{url('Arsha')}}/assets/img/portfolio/pf-mobile2.png" title="DIKO's Blog" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
           </div>
           <!-- End Portfolio Item -->
 
           <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-mobile.png" class="img-fluid" alt="">
+            <img src="{{url('Arsha')}}/assets/img/portfolio/pf-mobile.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Mobile Orientation</h4>
-              <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-mobile.png" title="Mobile Orientation" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              <a href="{{url('Arsha')}}/assets/img/portfolio/pf-mobile.png" title="Mobile Orientation" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
           </div>
           <!-- End Portfolio Item -->
 
           <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product">
-            <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-laptop.png" class="img-fluid" alt="">
+            <img src="{{url('Arsha')}}/assets/img/portfolio/pf-laptop.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>DIKO SP</h4>
-              <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-laptop.png" title="DIKO SP" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              <a href="{{url('Arsha')}}/assets/img/portfolio/pf-laptop.png" title="DIKO SP" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
           </div>
           <!-- End Portfolio Item -->
 
           <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
-            <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-mug.png" class="img-fluid" alt="">
+            <img src="{{url('Arsha')}}/assets/img/portfolio/pf-mug.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>DIKO's Merchant</h4>
-              <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-mug.png" title="DIKO's Merchant" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              <a href="{{url('Arsha')}}/assets/img/portfolio/pf-mug.png" title="DIKO's Merchant" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
           </div>
           <!-- End Portfolio Item -->
 
           <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-books">
-            <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-pie-chart.jpg" class="img-fluid" alt="">
+            <img src="{{url('Arsha')}}/assets/img/portfolio/pf-pie-chart.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Charts</h4>
-              <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-pie-chart.jpg" title="Charts" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              <a href="{{url('Arsha')}}/assets/img/portfolio/pf-pie-chart.jpg" title="Charts" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
           </div>
           <!-- End Portfolio Item -->
 
           <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-product">
-            <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-statistics.jpg" class="img-fluid" alt="">
+            <img src="{{url('Arsha')}}/assets/img/portfolio/pf-statistics.jpg" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Desktop</h4>
-              <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-statistics.jpg" title="Desktop" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              <a href="{{url('Arsha')}}/assets/img/portfolio/pf-statistics.jpg" title="Desktop" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
           </div>
           <!-- End Portfolio Item -->
 
           <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-tablet.png" class="img-fluid" alt="">
+            <img src="{{url('Arsha')}}/assets/img/portfolio/pf-tablet.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Tablets</h4>
-              <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-tablet.png" title="Tablets" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              <a href="{{url('Arsha')}}/assets/img/portfolio/pf-tablet.png" title="Tablets" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
           </div>
           <!-- End Portfolio Item -->
 
           <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-app">
-            <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-tablet2.png" class="img-fluid" alt="">
+            <img src="{{url('Arsha')}}/assets/img/portfolio/pf-tablet2.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Tablet Orientation</h4>
-              <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-tablet2.png" title="Tablet Orientation" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              <a href="{{url('Arsha')}}/assets/img/portfolio/pf-tablet2.png" title="Tablet Orientation" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
           </div>
           <!-- End Portfolio Item -->
 
           <div class="col-xl-3 col-lg-4 col-md-6 portfolio-item filter-branding">
-            <img src="{{url('HeroBiz')}}/assets/img/portfolio/pf-totebag.png" class="img-fluid" alt="">
+            <img src="{{url('Arsha')}}/assets/img/portfolio/pf-totebag.png" class="img-fluid" alt="">
             <div class="portfolio-info">
               <h4>Merchandise</h4>
-              <a href="{{url('HeroBiz')}}/assets/img/portfolio/pf-totebag.png" title="Merchandise" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+              <a href="{{url('Arsha')}}/assets/img/portfolio/pf-totebag.png" title="Merchandise" data-gallery="portfolio-gallery" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
               <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
             </div>
           </div>
@@ -1209,7 +1209,7 @@
     <div class="row justify-content-center">
       <div class="col-md-6">
         <div class="card">
-          <img src="{{url('HeroBiz')}}/assets/img/globe.png"  class="card-img-top" alt="Gambar Card 1"  style="max-width: 50px; max-height: 50px;">
+          <img src="{{url('Arsha')}}/assets/img/globe.png"  class="card-img-top" alt="Gambar Card 1"  style="max-width: 50px; max-height: 50px;">
           <div class="card-body">
             <h5 class="card-title">Card 1</h5>
             <p class="card-text">Level up pencatatan, management, dan pelaporan Bisnis Anda dengan menggunakan DIKO</p>
@@ -1219,7 +1219,7 @@
       </div>
       <div class="col-md-6">
         <div class="card">
-          <img src="{{url('HeroBiz')}}/assets/img/telephone-call.png" class="card-img-top" alt="Gambar Card 2"  style="max-width: 50px; max-height: 50px;">
+          <img src="{{url('Arsha')}}/assets/img/telephone-call.png" class="card-img-top" alt="Gambar Card 2"  style="max-width: 50px; max-height: 50px;">
           <div class="card-body">
             <h5 class="card-title">Card 2</h5>
             <p class="card-text">Product Consultant kami akan membantu untuk memilih aplikasi terbaik sesuai kebutuhan perusahaan Anda</p>
@@ -1239,7 +1239,7 @@
           <div class="card-body">
             <div class="row align-items-center">
               <div class="col-4">
-                <img src="{{url('HeroBiz')}}/assets/img/globe.png" class="card-img-top" alt="Gambar Card 1" style="max-width: 100px; max-height: 100px;">
+                <img src="{{url('Arsha')}}/assets/img/globe.png" class="card-img-top" alt="Gambar Card 1" style="max-width: 100px; max-height: 100px;">
               </div>
               <div class="col-8">
                 <h5 class="card-title">Coba DIKO, gratis!</h5>
@@ -1255,7 +1255,7 @@
           <div class="card-body">
             <div class="row align-items-center">
               <div class="col-4">
-                <img src="{{url('HeroBiz')}}/assets/img/telephone-call.png" class="card-img-top" alt="Gambar Card 2" style="max-width: 100px; max-height: 100px;">
+                <img src="{{url('Arsha')}}/assets/img/telephone-call.png" class="card-img-top" alt="Gambar Card 2" style="max-width: 100px; max-height: 100px;">
               </div>
               <div class="col-8">
                 <h5 class="card-title">Hubungi DIKO</h5>
@@ -1357,7 +1357,7 @@
 
         <div class="col-lg-4" data-aos="fade-up" data-aos-delay="200">
           <div class="post-box">
-            <div class="post-img"><img src="{{url('HeroBiz')}}/assets/img/blog/634.jpg" class="img-fluid" alt=""></div>
+            <div class="post-img"><img src="{{url('Arsha')}}/assets/img/blog/634.jpg" class="img-fluid" alt=""></div>
             <div class="meta">
               <span class="post-date">25 Agustus 2023</span>
               <!-- <span class="post-author"> / Julia Parker</span> -->
@@ -1370,7 +1370,7 @@
 
         <div class="col-lg-4" data-aos="fade-up" data-aos-delay="400">
           <div class="post-box">
-            <div class="post-img"><img src="{{url('HeroBiz')}}/assets/img/blog/revisi1.png" class="img-fluid" alt=""></div>
+            <div class="post-img"><img src="{{url('Arsha')}}/assets/img/blog/revisi1.png" class="img-fluid" alt=""></div>
             <div class="meta">
               <span class="post-date">14 Agustus 2023</span>
               <!-- <span class="post-author"> / Mario Douglas</span> -->
@@ -1383,7 +1383,7 @@
 
         <div class="col-lg-4" data-aos="fade-up" data-aos-delay="600">
           <div class="post-box">
-            <div class="post-img"><img src="{{url('HeroBiz')}}/assets/img/blog/revisi2.png" class="img-fluid" alt=""></div>
+            <div class="post-img"><img src="{{url('Arsha')}}/assets/img/blog/revisi2.png" class="img-fluid" alt=""></div>
             <div class="meta">
               <span class="post-date">10 Maret 2023</span>
               <!-- <span class="post-author"> / Lisa Hunter</span> -->

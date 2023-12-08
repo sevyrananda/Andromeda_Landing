@@ -4,7 +4,7 @@
 <!-- ======= Hero Section ======= -->
 <section id="hero-animated" class="hero-animated d-flex align-items-center" style="background-color: #fff;">
   <div class="container d-flex flex-column justify-content-center align-items-center text-center position-relative" data-aos="zoom-out">
-    <img src="{{ asset('HeroBiz/assets/img/DIKO TRANSPARANT.png') }}" class="img-fluid animated" style="width: 370px;">
+    <img src="{{ asset('Arsha/assets/img/DIKO TRANSPARANT.png') }}" class="img-fluid animated" style="width: 370px;">
     <h2>Selamat Datang di <span>DIKO POS</span></h2>
     <p>Kelola Pinjaman dan Laporan Keuangan dengan Lebih Mudah!</p>
     <div class="d-flex">
@@ -21,7 +21,7 @@
       <div class="flex" style="background-color: #485664;">
         <div class="row">
           <div class="col-md-6">
-            <img src="{{ asset('HeroBiz/mockup-1.png') }}" class="img-fluid animated fill-shadow" alt="Gambar DIKO POS">
+            <img src="{{ asset('Arsha/mockup-1.png') }}" class="img-fluid animated fill-shadow" alt="Gambar DIKO POS">
           </div>
           <div class="col-md-6">
             <h2 style="color: #fff;">Bagaimana Diko POS membantu Anda?</h2>
@@ -49,14 +49,14 @@
     <!-- <div class="container" data-aos="zoom-out" style="margin-top: 100px;">
       <div class="clients-slider swiper">
         <div class="swiper-wrapper align-items-center">
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-1.png') }}" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-2.png') }}" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-3.png') }}" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-4.png') }}" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-5.png') }}" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-6.png') }}" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-7.png') }}" class="img-fluid" alt=""></div>
-          <div class="swiper-slide"><img src="{{ asset('HeroBiz/assets/img/clients/client-8.png') }}" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="{{ asset('Arsha/assets/img/clients/client-1.png') }}" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="{{ asset('Arsha/assets/img/clients/client-2.png') }}" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="{{ asset('Arsha/assets/img/clients/client-3.png') }}" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="{{ asset('Arsha/assets/img/clients/client-4.png') }}" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="{{ asset('Arsha/assets/img/clients/client-5.png') }}" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="{{ asset('Arsha/assets/img/clients/client-6.png') }}" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="{{ asset('Arsha/assets/img/clients/client-7.png') }}" class="img-fluid" alt=""></div>
+          <div class="swiper-slide"><img src="{{ asset('Arsha/assets/img/clients/client-8.png') }}" class="img-fluid" alt=""></div>
         </div>
       </div>
 
@@ -115,7 +115,7 @@
               </p>
             </div>
             <div class="col-lg-2 order-1 text-center" data-aos="fade-up" data-aos-delay="200">
-              <img src="{{ asset('HeroBiz/assets/img/new-features-1.png') }}" alt="" class="img-fluid">
+              <img src="{{ asset('Arsha/assets/img/new-features-1.png') }}" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 1 -->
@@ -130,7 +130,7 @@
               </p>
             </div>
             <div class="col-lg-2 order-1 text-center">
-              <img src="{{ asset('HeroBiz/assets/img/new-features-2.png') }}" alt="" class="img-fluid">
+              <img src="{{ asset('Arsha/assets/img/new-features-2.png') }}" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 2 -->
@@ -145,7 +145,7 @@
               </p>
             </div>
             <div class="col-lg-2 order-1 text-center">
-              <img src="{{ asset('HeroBiz/assets/img/new-features-3.png') }}" alt="" class="img-fluid">
+              <img src="{{ asset('Arsha/assets/img/new-features-3.png') }}" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 3 -->
@@ -160,7 +160,7 @@
               </p>
             </div>
             <div class="col-lg-2 order-1 text-center">
-              <img src="{{ asset('HeroBiz/assets/img/new-features-4.png') }}" alt="" class="img-fluid">
+              <img src="{{ asset('Arsha/assets/img/new-features-4.png') }}" alt="" class="img-fluid">
             </div>
           </div>
         </div><!-- End Tab Content 4 -->
@@ -268,7 +268,7 @@
 
           <div class="swiper-slide">
             <div class="testimonial-item">
-              <img src="{{ asset('HeroBiz/assets/img/testimonials/testimonials-1.jpg') }}" class="testimonial-img" alt="">
+              <img src="{{ asset('Arsha/assets/img/testimonials/testimonials-1.jpg') }}" class="testimonial-img" alt="">
               <h3>Saul Goodman</h3>
               <h4>Ceo &amp; Founder</h4>
               <div class="stars">
@@ -285,7 +285,7 @@
 
           <div class="swiper-slide">
             <div class="testimonial-item">
-              <img src="{{ asset('HeroBiz/assets/img/testimonials/testimonials-2.jpg') }}" class="testimonial-img" alt="">
+              <img src="{{ asset('Arsha/assets/img/testimonials/testimonials-2.jpg') }}" class="testimonial-img" alt="">
               <h3>Sara Wilsson</h3>
               <h4>Designer</h4>
               <div class="stars">
@@ -302,7 +302,7 @@
 
           <div class="swiper-slide">
             <div class="testimonial-item">
-              <img src="{{ asset('HeroBiz/assets/img/testimonials/testimonials-3.jpg') }}" class="testimonial-img" alt="">
+              <img src="{{ asset('Arsha/assets/img/testimonials/testimonials-3.jpg') }}" class="testimonial-img" alt="">
               <h3>Jena Karlis</h3>
               <h4>Store Owner</h4>
               <div class="stars">
@@ -319,7 +319,7 @@
 
           <div class="swiper-slide">
             <div class="testimonial-item">
-              <img src="{{ asset('HeroBiz/assets/img/testimonials/testimonials-4.jpg') }}" class="testimonial-img" alt="">
+              <img src="{{ asset('Arsha/assets/img/testimonials/testimonials-4.jpg') }}" class="testimonial-img" alt="">
               <h3>Matt Brandon</h3>
               <h4>Freelancer</h4>
               <div class="stars">
@@ -336,7 +336,7 @@
 
           <div class="swiper-slide">
             <div class="testimonial-item">
-              <img src="{{ asset('HeroBiz/assets/img/testimonials/testimonials-5.jpg') }}" class="testimonial-img" alt="">
+              <img src="{{ asset('Arsha/assets/img/testimonials/testimonials-5.jpg') }}" class="testimonial-img" alt="">
               <h3>John Larson</h3>
               <h4>Entrepreneur</h4>
               <div class="stars">
@@ -368,7 +368,7 @@
         <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out">
           <div class="service-item position-relative">
             <div class="icon" style="text-align: center;">
-              <img src="{{ asset('HeroBiz/time-management.png') }}" alt="manage" width="50" height="50">
+              <img src="{{ asset('Arsha/time-management.png') }}" alt="manage" width="50" height="50">
               <!-- <i class="bi bi-activity icon"></i> -->
             </div>
             <!-- <h4><a href="" class="stretched-link">Lorem Ipsum</a></h4> -->
@@ -380,7 +380,7 @@
         <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="200">
           <div class="service-item position-relative">
             <div class="icon" style="text-align: center;">
-              <img src="{{ asset('HeroBiz/global-network.png') }}" alt="network" width="45" height="45">
+              <img src="{{ asset('Arsha/global-network.png') }}" alt="network" width="45" height="45">
               <!-- <i class="bi bi-bounding-box-circles icon"></i> -->
             </div>
             <!-- <h4><a href="" class="stretched-link">Sed ut perspici</a></h4> -->
@@ -392,7 +392,7 @@
         <div class="col-xl-3 col-md-6 d-flex" data-aos="zoom-out" data-aos-delay="400">
           <div class="service-item position-relative">
             <div class="icon" style="text-align: center;">
-              <img src="{{ asset('HeroBiz/transaction.png') }}" alt="transaction" width="45" height="45">
+              <img src="{{ asset('Arsha/transaction.png') }}" alt="transaction" width="45" height="45">
               <!-- <i class="bi bi-calendar4-week icon"></i> -->
             </div>
             <!-- <h4><a href="" class="stretched-link">Magni Dolores</a></h4> -->
@@ -405,7 +405,7 @@
           <div class="service-item position-relative">
             <div class="icon" style="text-align: center;">
               <!-- <i class="bi bi-broadcast icon"></i> -->
-              <img src="{{ asset('HeroBiz/responsive-design.png') }}" alt="device" width="45" height="45">
+              <img src="{{ asset('Arsha/responsive-design.png') }}" alt="device" width="45" height="45">
             </div>
             <!-- <h4><a href="" class="stretched-link">Nemo Enim</a></h4> -->
             <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Nikmati kemudahan akses melalui semua

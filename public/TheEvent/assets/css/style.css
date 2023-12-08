@@ -16,7 +16,9 @@ body {
 }
 
 a {
-  color: #f82249;
+  color: #a3c47b
+
+;
   text-decoration: none;
   transition: 0.5s;
 }
@@ -73,7 +75,9 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #f82249;
+  background: #a3c47b
+
+;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -110,7 +114,9 @@ h6 {
   display: block;
   width: 60px;
   height: 5px;
-  background: #f82249;
+  background: #a3c47b
+
+;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -165,7 +171,9 @@ h6 {
 }
 
 #header #logo h1 span {
-  color: #f82249;
+  color: #a3c47b
+
+;
 }
 
 #header #logo h1 a,
@@ -190,11 +198,15 @@ h6 {
 --------------------------------------------------------------*/
 .buy-tickets {
   color: #fff;
-  background: #f82249;
+  background: #a3c47b
+
+;
   padding: 7px 22px;
   margin: 0 0 0 15px;
   border-radius: 50px;
-  border: 2px solid #f82249;
+  border: 2px solid #a3c47b
+
+;
   transition: all ease-in-out 0.3s;
   font-weight: 500;
   line-height: 1;
@@ -273,7 +285,9 @@ h6 {
   height: 2px;
   bottom: -6px;
   left: 0;
-  background-color: #f82249;
+  background-color: #a3c47b
+
+;
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
@@ -303,7 +317,7 @@ h6 {
   opacity: 0;
   visibility: hidden;
   background: #fff;
-  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+  box-shadow: 0px 0px 30px #0F0F0F;
   transition: 0.3s;
 }
 
@@ -325,7 +339,9 @@ h6 {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #f82249;
+  color: #a3c47b
+
+;
 }
 
 .navbar .dropdown:hover>ul {
@@ -430,7 +446,9 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #f82249;
+  color: #a3c47b
+
+;
 }
 
 .navbar-mobile .getstarted,
@@ -447,7 +465,7 @@ h6 {
   opacity: 1;
   visibility: visible;
   background: #fff;
-  box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
+  box-shadow: 0px 0px 30px #0F0F0F;
 }
 
 .navbar-mobile .dropdown ul li {
@@ -465,7 +483,9 @@ h6 {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #f82249;
+  color: #a3c47b
+
+;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -478,7 +498,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url(../img/hero-bg.jpg) top center;
+  background: url(../img/black.jpg) top center;
   background-size: cover;
   overflow: hidden;
   position: relative;
@@ -529,7 +549,9 @@ h6 {
 }
 
 #hero h1 span {
-  color: #f82249;
+  color: #a3c47b
+
+;
 }
 
 @media (max-width: 991px) {
@@ -553,7 +575,9 @@ h6 {
 #hero .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#f82249 50%, rgba(101, 111, 150, 0.15) 52%);
+  background: radial-gradient(#a3c47b
+
+ 50%, rgba(101, 111, 150, 0.15) 52%);
   border-radius: 50%;
   display: block;
   position: relative;
@@ -594,7 +618,9 @@ h6 {
 }
 
 #hero .play-btn:hover::after {
-  border-left: 15px solid #f82249;
+  border-left: 15px solid #a3c47b
+
+;
   transform: scale(20);
 }
 
@@ -628,11 +654,15 @@ h6 {
   margin: 10px;
   color: #fff;
   animation-delay: 0.8s;
-  border: 2px solid #f82249;
+  border: 2px solid #a3c47b
+
+;
 }
 
 #hero .about-btn:hover {
-  background: #f82249;
+  background: #a3c47b
+
+;
   color: #fff;
 }
 
@@ -749,7 +779,9 @@ h6 {
 }
 
 #speakers .speaker .details a:hover {
-  color: #f82249;
+  color: #a3c47b
+
+;
 }
 
 #speakers .speaker:hover .details {
@@ -786,7 +818,9 @@ h6 {
 }
 
 #speakers-details .details .social a:hover {
-  background: #f82249;
+  background: #a3c47b
+
+;
   color: #fff;
 }
 
@@ -849,7 +883,9 @@ h6 {
 }
 
 #schedule .nav-tabs a.active {
-  background-color: #f82249;
+  background-color: #a3c47b
+
+;
   color: #fff;
 }
 
@@ -1029,7 +1065,9 @@ h6 {
 }
 
 #hotels a:hover {
-  color: #f82249;
+  color: #a3c47b
+
+;
 }
 
 #hotels .stars {
@@ -1067,11 +1105,15 @@ h6 {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #f82249;
+  border: 1px solid #a3c47b
+
+;
 }
 
 #gallery .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #f82249;
+  background-color: #a3c47b
+
+;
 }
 
 #gallery .swiper-slide-active {
@@ -1084,7 +1126,9 @@ h6 {
   }
 
   #gallery .swiper-slide-active {
-    border: 5px solid #f82249;
+    border: 5px solid #a3c47b
+
+;
     padding: 4px;
     background: #fff;
     z-index: 1;
@@ -1147,7 +1191,9 @@ h6 {
 #faq .faq-list .question {
   display: block;
   position: relative;
-  font-family: #f82249;
+  font-family: #a3c47b
+
+;
   font-size: 18px;
   line-height: 24px;
   font-weight: 400;
@@ -1178,7 +1224,9 @@ h6 {
 }
 
 #faq .faq-list .collapsed:hover {
-  color: #f82249;
+  color: #a3c47b
+
+;
 }
 
 #faq .faq-list .collapsed .icon-show {
@@ -1244,7 +1292,9 @@ h6 {
   border: 0;
   padding: 9px 25px;
   cursor: pointer;
-  background: #f82249;
+  background: #a3c47b
+
+;
   color: #fff;
   transition: all 0.3s ease;
   outline: none;
@@ -1309,7 +1359,9 @@ h6 {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #f82249;
+  background-color: #a3c47b
+
+;
   border: 0;
   color: #fff;
 }
@@ -1328,7 +1380,9 @@ h6 {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #f82249;
+  background-color: #a3c47b
+
+;
   border: 0;
   color: #fff;
 }
@@ -1353,7 +1407,9 @@ h6 {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
-  color: #f82249;
+  color: #a3c47b
+
+;
 }
 
 #contact .contact-info address,
@@ -1375,7 +1431,9 @@ h6 {
 }
 
 #contact .contact-info a:hover {
-  color: #f82249;
+  color: #a3c47b
+
+;
 }
 
 #contact .contact-address,
@@ -1450,7 +1508,9 @@ h6 {
 
 #contact .php-email-form input:focus,
 #contact .php-email-form textarea:focus {
-  border-color: #f82249;
+  border-color: #a3c47b
+
+;
 }
 
 #contact .php-email-form input {
@@ -1462,7 +1522,9 @@ h6 {
 }
 
 #contact .php-email-form button[type=submit] {
-  background: #f82249;
+  background: #a3c47b
+
+;
   border: 0;
   padding: 10px 40px;
   color: #fff;
@@ -1548,7 +1610,9 @@ h6 {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #f82249;
+  background: #a3c47b
+
+;
   color: #fff;
 }
 
@@ -1559,7 +1623,9 @@ h6 {
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
-  border-bottom: 2px solid #f82249;
+  border-bottom: 2px solid #a3c47b
+
+;
 }
 
 #footer .footer-top .footer-links {
@@ -1574,7 +1640,9 @@ h6 {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 5px;
-  color: #f82249;
+  color: #a3c47b
+
+;
   font-size: 18px;
 }
 
@@ -1592,7 +1660,9 @@ h6 {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #f82249;
+  color: #a3c47b
+
+;
 }
 
 #footer .footer-top .footer-contact {
@@ -1614,7 +1684,9 @@ h6 {
 }
 
 #footer .footer-top .footer-newsletter input[type=submit] {
-  background: #f82249;
+  background: #a3c47b
+
+;
   border: 0;
   width: 35%;
   padding: 6px 0;

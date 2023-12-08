@@ -4,13 +4,13 @@
  <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container" data-aos="zoom-in" data-aos-delay="100">
-      <h1 class="mb-4 pb-0">Selamat Datang di<br><span>Andromeda</span></h1>
+      <h1 class="mb-4 pb-0">Selamat Datang di<br><span>Godong</span></h1>
       <p class="mb-4 pb-0">Solusi terbaik untuk manajemen keuangan Anda</p>
       <a href="https://youtu.be/4ZoWQeCO0CI" class="glightbox play-btn mb-4"></a>
       <p class="mb-1 pb-0">Getting Start to</p>
       <row>
-          <a href="{{ route('andromedapos') }}" class="about-btn scrollto">Andromeda POS</a>
-          <a href="{{ route('andromedasp') }}" class="about-btn scrollto">Andromeda SP</a>
+          <a href="{{ route('andromedapos') }}" class="about-btn scrollto">Godong POS</a>
+          <a href="{{ route('andromedasp') }}" class="about-btn scrollto">Godong SP</a>
       </row>
     </div>
   </section><!-- End Hero Section -->
@@ -22,7 +22,7 @@
       <div class="container position-relative" data-aos="fade-up">
         <div class="row">
           <div class="col-lg-6">
-            <h2>Tentang Andromeda</h2>
+            <h2>Tentang Godong</h2>
             <p>ANDROMEDA merupakan sistem aplikasi simpan pinjam koperasi adalah platform perangkat lunak 
                 yang dirancang khusus untuk membantu koperasi dalam mengelola keuangan, anggota, dan transaksi simpan pinjam.</p>
           </div>
@@ -42,14 +42,14 @@
     <section id="speakers">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <h2>Andromeda</h2>
-          <p>solusi manajemen keuangan Anda</p>
+          <h2>Godong</h2>
+          <p>Solusi manajemen keuangan Anda</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="100">
-              <img src="{{url('TheEvent')}}/assets/img/speakers/dashboard.png" alt="Speaker 1" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/R1.png" alt="Speaker 1" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Laporan Ringkasan</a></h3>
                 <p>Berupa grafik pertumbuhan dan total data</p>
@@ -64,9 +64,9 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="200">
-              <img src="{{url('TheEvent')}}/assets/img/speakers/transaksi-jaminan.png" alt="Speaker 2" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/R2.png" alt="Speaker 2" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Transaksi Jaminan</a></h3>
+                <h3><a href="speaker-details.html">Realisasi Pinjaman</a></h3>
                 <p>berdasarkan data-data Nasabah</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
@@ -79,9 +79,9 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="300">
-              <img src="{{url('TheEvent')}}/assets/img/speakers/rekening-simpanan.png" alt="Speaker 3" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/R3.png" alt="Speaker 3" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Simpanan Nasabah</a></h3>
+                <h3><a href="speaker-details.html">Master Jaminan</a></h3>
                 <p>berdasarkan data-data Nasabah</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
@@ -94,9 +94,9 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="100">
-              <img src="{{url('TheEvent')}}/assets/img/speakers/register-nasabah.png" alt="Speaker 4" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/R4.png" alt="Speaker 4" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Register Nasabah</a></h3>
+                <h3><a href="speaker-details.html">Mobile Fitur</a></h3>
                 <p>berdasarkan data-data Nasabah</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
@@ -109,9 +109,9 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="200">
-              <img src="{{url('TheEvent')}}/assets/img/speakers/neraca-harian.png" alt="Speaker 5" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/R5.png" alt="Speaker 5" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Neraca Harian</a></h3>
+                <h3><a href="speaker-details.html">Register</a></h3>
                 <p>berdasarkan data-data Nasabah</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
@@ -124,10 +124,10 @@
           </div>
           <div class="col-lg-4 col-md-6">
             <div class="speaker" data-aos="fade-up" data-aos-delay="300">
-              <img src="{{url('TheEvent')}}/assets/img/speakers/notasi-kas.png" alt="Speaker 6" class="img-fluid">
+              <img src="{{url('TheEvent')}}/assets/img/speakers/R7.png" alt="Speaker 6" class="img-fluid">
               <div class="details">
-                <h3><a href="speaker-details.html">Kas</a></h3>
-                <p>Non autem dicta</p>
+                <h3><a href="speaker-details.html">Grafik Aset</a></h3>
+                <p>berdasarkan data-data Nasabah</p>
                 <div class="social">
                   <a href=""><i class="bi bi-twitter"></i></a>
                   <a href=""><i class="bi bi-facebook"></i></a>
@@ -152,18 +152,16 @@
 
         <ul class="nav nav-tabs" role="tablist" data-aos="fade-up" data-aos-delay="100">
           <li class="nav-item">
-            <a class="nav-link active" href="#day-1" role="tab" data-bs-toggle="tab">Andromeda POS</a>
+            <a class="nav-link active" href="#day-1" role="tab" data-bs-toggle="tab">Godong POS</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#day-2" role="tab" data-bs-toggle="tab">Andromeda SP</a>
+            <a class="nav-link" href="#day-2" role="tab" data-bs-toggle="tab">Godong SP</a>
           </li>
           <!-- <li class="nav-item">
             <a class="nav-link" href="#day-3" role="tab" data-bs-toggle="tab">Day 3</a>
           </li> -->
         </ul>
 
-        <h3 class="sub-heading">Voluptatem nulla veniam soluta et corrupti consequatur neque eveniet officia. Eius
-          necessitatibus voluptatem quis labore perspiciatis quia.</h3>
 
         <div class="tab-content row justify-content-center" data-aos="fade-up" data-aos-delay="200">
 
@@ -171,76 +169,44 @@
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>09:30 AM</time></div>
+              <div class="col-md-2"><category>Godong POS</category></div>
               <div class="col-md-10">
-                <h4>Registration</h4>
-                <p>Fugit voluptas iusto maiores temporibus autem numquam magnam.</p>
+                <h4>Untuk aplikasi manajemen penjualan/aplikasi kasir</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>10:00 AM</time></div>
+              <div class="col-md-2"><category>Godong POS</category></div>
               <div class="col-md-10">
-                <div class="speaker">
-                  <img src="{{url('TheEvent')}}/assets/img/speakers/1.jpg" alt="Brenden Legros">
-                </div>
-                <h4>Keynote <span>Brenden Legros</span></h4>
-                <p>Facere provident incidunt quos voluptas.</p>
+                <h4>Tesedia online dan offline</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>11:00 AM</time></div>
+              <div class="col-md-2"><category>Godong POS</category></div>
               <div class="col-md-10">
-                <div class="speaker">
-                  <img src="{{url('TheEvent')}}/assets/img/speakers/2.jpg" alt="Hubert Hirthe">
-                </div>
-                <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
-                <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
+                <h4>Untuk aplikasi manajemen penjualan/aplikasi kasir</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>12:00 AM</time></div>
+              <div class="col-md-2"><category>Godong POS</category></div>
               <div class="col-md-10">
-                <div class="speaker">
-                  <img src="{{url('TheEvent')}}/assets/img/speakers/3.jpg" alt="Cole Emmerich">
-                </div>
-                <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
-                <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
+                <h4>Tesedia online dan offline</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>02:00 PM</time></div>
+              <div class="col-md-2"><category>Godong POS</category></div>
               <div class="col-md-10">
-                <div class="speaker">
-                  <img src="{{url('TheEvent')}}/assets/img/speakers/4.jpg" alt="Jack Christiansen">
-                </div>
-                <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
-                <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
+                <h4>Untuk aplikasi manajemen penjualan/aplikasi kasir</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>03:00 PM</time></div>
+              <div class="col-md-2"><category>Godong POS</category></div>
               <div class="col-md-10">
-                <div class="speaker">
-                  <img src="{{url('TheEvent')}}/assets/img/speakers/5.jpg" alt="Alejandrin Littel">
-                </div>
-                <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
-                <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
-              </div>
-            </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><time>04:00 PM</time></div>
-              <div class="col-md-10">
-                <div class="speaker">
-                  <img src="{{url('TheEvent')}}/assets/img/speakers/6.jpg" alt="Willow Trantow">
-                </div>
-                <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
-                <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
+                <h4>Tesedia online dan offline</h4>
               </div>
             </div>
 
@@ -251,68 +217,44 @@
           <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-2">
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>10:00 AM</time></div>
+              <div class="col-md-2"><category>Godong SP</category></div>
               <div class="col-md-10">
-                <div class="speaker">
-                  <img src="{{url('TheEvent')}}/assets/img/speakers/1.jpg" alt="Brenden Legros">
-                </div>
-                <h4>Libero corrupti explicabo itaque. <span>Brenden Legros</span></h4>
-                <p>Facere provident incidunt quos voluptas.</p>
+                <h4>Tesedia online dan offline</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>11:00 AM</time></div>
+              <div class="col-md-2"><category>Godong SP</category></div>
               <div class="col-md-10">
-                <div class="speaker">
-                  <img src="{{url('TheEvent')}}/assets/img/speakers/2.jpg" alt="Hubert Hirthe">
-                </div>
-                <h4>Et voluptatem iusto dicta nobis. <span>Hubert Hirthe</span></h4>
-                <p>Maiores dignissimos neque qui cum accusantium ut sit sint inventore.</p>
+                <h4>Untuk aplikasi simpan pinjam</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>12:00 AM</time></div>
+              <div class="col-md-2"><category>Godong SP</category></div>
               <div class="col-md-10">
-                <div class="speaker">
-                  <img src="{{url('TheEvent')}}/assets/img/speakers/3.jpg" alt="Cole Emmerich">
-                </div>
-                <h4>Explicabo et rerum quis et ut ea. <span>Cole Emmerich</span></h4>
-                <p>Veniam accusantium laborum nihil eos eaque accusantium aspernatur.</p>
+                <h4>Tesedia online dan offline</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>02:00 PM</time></div>
+              <div class="col-md-2"><category>Godong SP</category></div>
               <div class="col-md-10">
-                <div class="speaker">
-                  <img src="{{url('TheEvent')}}/assets/img/speakers/4.jpg" alt="Jack Christiansen">
-                </div>
-                <h4>Qui non qui vel amet culpa sequi. <span>Jack Christiansen</span></h4>
-                <p>Nam ex distinctio voluptatem doloremque suscipit iusto.</p>
+                <h4>Untuk aplikasi simpan pinjam</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>03:00 PM</time></div>
+              <div class="col-md-2"><category>Godong SP</category></div>
               <div class="col-md-10">
-                <div class="speaker">
-                  <img src="{{url('TheEvent')}}/assets/img/speakers/5.jpg" alt="Alejandrin Littel">
-                </div>
-                <h4>Quos ratione neque expedita asperiores. <span>Alejandrin Littel</span></h4>
-                <p>Eligendi quo eveniet est nobis et ad temporibus odio quo.</p>
+                <h4>Tesedia online dan offline</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>04:00 PM</time></div>
+              <div class="col-md-2"><category>Godong SP</category></div>
               <div class="col-md-10">
-                <div class="speaker">
-                  <img src="{{url('TheEvent')}}/assets/img/speakers/6.jpg" alt="Willow Trantow">
-                </div>
-                <h4>Quo qui praesentium nesciunt <span>Willow Trantow</span></h4>
-                <p>Voluptatem et alias dolorum est aut sit enim neque veritatis.</p>
+                <h4>Untuk aplikasi simpan pinjam</h4>
               </div>
             </div>
 
@@ -323,7 +265,7 @@
           <!-- <div role="tabpanel" class="col-lg-9  tab-pane fade" id="day-3">
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>10:00 AM</time></div>
+              <div class="col-md-2"><category>10:00 AM</category></div>
               <div class="col-md-10">
                 <div class="speaker">
                   <img src="{{url('TheEvent')}}/assets/img/speakers/2.jpg" alt="Hubert Hirthe">
@@ -334,7 +276,7 @@
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>11:00 AM</time></div>
+              <div class="col-md-2"><category>11:00 AM</category></div>
               <div class="col-md-10">
                 <div class="speaker">
                   <img src="{{url('TheEvent')}}/assets/img/speakers/3.jpg" alt="Cole Emmerich">
@@ -345,7 +287,7 @@
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>12:00 AM</time></div>
+              <div class="col-md-2"><category>12:00 AM</category></div>
               <div class="col-md-10">
                 <div class="speaker">
                   <img src="{{url('TheEvent')}}/assets/img/speakers/1.jpg" alt="Brenden Legros">
@@ -356,7 +298,7 @@
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>02:00 PM</time></div>
+              <div class="col-md-2"><category>02:00 PM</category></div>
               <div class="col-md-10">
                 <div class="speaker">
                   <img src="{{url('TheEvent')}}/assets/img/speakers/4.jpg" alt="Jack Christiansen">
@@ -367,7 +309,7 @@
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>03:00 PM</time></div>
+              <div class="col-md-2"><category>03:00 PM</category></div>
               <div class="col-md-10">
                 <div class="speaker">
                   <img src="{{url('TheEvent')}}/assets/img/speakers/5.jpg" alt="Alejandrin Littel">
@@ -378,7 +320,7 @@
             </div>
 
             <div class="row schedule-item">
-              <div class="col-md-2"><time>04:00 PM</time></div>
+              <div class="col-md-2"><category>04:00 PM</category></div>
               <div class="col-md-10">
                 <div class="speaker">
                   <img src="{{url('TheEvent')}}/assets/img/speakers/6.jpg" alt="Willow Trantow">
@@ -579,7 +521,7 @@
             <ul class="faq-list">
 
               <li>
-                <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Apa manfaat menggunakan Andromeda? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Apa manfaat menggunakan Godong? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
                 <div id="faq1" class="collapse" data-bs-parent=".faq-list">
                   <p>
                   Menggunakan DIKO dapat membantu koperasi meningkatkan efisiensi pengelolaan keuangan,memperbaiki pelayanan kepada anggota, dan mengurangi potensi kesalahan dalam pencatatan transaksi.
@@ -606,7 +548,7 @@
               </li>
 
               <li>
-                <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Apakah saya dapat melihat saldo dan riwayat transaksi saya melalui Andromeda? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Apakah saya dapat melihat saldo dan riwayat transaksi saya melalui Godong? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
                 <div id="faq4" class="collapse" data-bs-parent=".faq-list">
                   <p>
                   Ya, Anda dapat mengakses saldo dan riwayat transaksi Anda melalui akun anggota Anda di sistem aplikasi.
@@ -615,7 +557,7 @@
               </li>
 
               <li>
-                <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">Bagaimana saya dapat mengajukan pinjaman melalui Andromeda? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">Bagaimana saya dapat mengajukan pinjaman melalui Godong? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
                 <div id="faq5" class="collapse" data-bs-parent=".faq-list">
                   <p>
                   Anda dapat mengajukan pinjaman melalui sistem aplikasi dengan mengisi formulir pinjaman yang tersedia dalam akun anggota Anda dan mengikuti petunjuk yang diberikan.
@@ -682,9 +624,9 @@
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Regular Seating</li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Community Access</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Workshop Access</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>After Party</li>
+                  <li class="text-muted"><span class="fa-li"><i class="fa fa-categorys"></i></span>Community Access</li>
+                  <li class="text-muted"><span class="fa-li"><i class="fa fa-categorys"></i></span>Workshop Access</li>
+                  <li class="text-muted"><span class="fa-li"><i class="fa fa-categorys"></i></span>After Party</li>
                 </ul>
                 <hr> -->
                 <!-- <div class="text-center">
@@ -704,8 +646,8 @@
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Coffee Break</li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Custom Badge</li>
                   <li><span class="fa-li"><i class="fa fa-check"></i></span>Community Access</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>Workshop Access</li>
-                  <li class="text-muted"><span class="fa-li"><i class="fa fa-times"></i></span>After Party</li>
+                  <li class="text-muted"><span class="fa-li"><i class="fa fa-categorys"></i></span>Workshop Access</li>
+                  <li class="text-muted"><span class="fa-li"><i class="fa fa-categorys"></i></span>After Party</li>
                 </ul>
                 <hr> -->
                 <!-- <div class="text-center">
@@ -852,7 +794,7 @@
 
         <div class="section-header">
           <h2>Lokasi Kami</h2>
-          <p>Lokasi kantor dan tujuan website</p>
+
         </div>
 
         <div class="row g-0">

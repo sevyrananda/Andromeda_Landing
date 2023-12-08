@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Andromeda</title>
+  <title>Godong</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -47,9 +47,10 @@
   <!-- ======= Footer ======= -->
 
   <div id="preloader"></div>
-  <a href="http://wa.me/+62813xxxxxxxx" class="back-to-top d-flex align-items-center justify-content-center">
+  <a href="https://wa.me/+62811363609" class="back-to-top d-flex align-items-center justify-content-center">
     <i class="bi bi-whatsapp"></i>
   </a>
+  
 
   <!-- Vendor JS Files -->
   <script src="{{url('Arsha')}}/assets/vendor/aos/aos.js"></script>
