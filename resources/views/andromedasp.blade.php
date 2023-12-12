@@ -534,17 +534,9 @@ aria-labelledby="modal3Label" aria-hidden="false">
 </div>
 </section>
 
-
-
-
-
-
-
     </body>
     </html>
 
-
-  
 
   <!-- ======= Pricing Section ======= -->
   <section id="pricing" class="pricing">
@@ -666,15 +658,15 @@ aria-labelledby="modal3Label" aria-hidden="false">
   <!-- ======= Contact Section ======= -->
   <section id="contact" class="contact">
     <div class="container" data-aos="fade-up">
-
+  
       <div class="section-title">
         <h2>Contact</h2>
         <p>Hubungi Kontak dibawah ini</p>
       </div>
-
+  
       <div class="row">
-
-        <div class="col-lg-12 d-flex align-items-stretch">
+  
+        <div class="col-lg-12">
           <div class="info">
             <h3>GODONG</h3>
             <p>
@@ -686,16 +678,15 @@ aria-labelledby="modal3Label" aria-hidden="false">
               <strong>WA:</strong> 0811-2501-827<br>
               <strong>Email:</strong> cs@andromeda.co.id<br>
             </p>
-
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" frameborder="0" style="border:0; width: 100%; height: 290px;" allowfullscreen></iframe>
+  
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" frameborder="0" style="border:0; width: 100%; height: 400px;" allowfullscreen></iframe>
           </div>
-
         </div>
-
+  
       </div>
-
+  
     </div>
   </section><!-- End Contact Section -->
-
+  
 </main><!-- End #main -->
 @endsection

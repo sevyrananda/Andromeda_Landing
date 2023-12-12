@@ -12,7 +12,7 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="{{url('TheEvent')}}/assets/img/andromeda.png" rel="icon">
+  <link href="{{url('TheEvent')}}/assets/img/Godong.png" rel="icon">
   <link href="{{url('TheEvent')}}/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->

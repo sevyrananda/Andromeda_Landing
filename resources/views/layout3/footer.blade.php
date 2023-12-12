@@ -6,7 +6,7 @@
     <div class="row">
 
       <div class="col-lg-3 col-md-6 footer-contact">
-        <h3>ANDROMEDA</h3>
+        <h3>GODONG</h3>
       </div>
 
       <div class="col-lg-3 col-md-6 footer-links">

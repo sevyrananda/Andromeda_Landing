@@ -5,7 +5,7 @@
       <div id="logo" class="me-auto">
         <!-- Uncomment below if you prefer to use a text logo -->
         <!-- <h1><a href="index.html">The<span>Event</span></a></h1>-->
-        <a href="#" class="scrollto"><img src="{{url('TheEvent')}}/assets/img/Godong.png" alt="" title=""></a>
+        <a href="#" class="scrollto"><img src="{{url('TheEvent')}}/assets/img/Logo Andromeda putih tanpa awan.png" alt="" title=""></a>
       </div>
 
       <!-- <img src="{{url('Arsha')}}/assets/img/andromeda.png" alt="" width="4%">
@@ -15,8 +15,7 @@
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">Tentang</a></li>
-          <li><a class="nav-link scrollto" href="#speakers">Fitur</a></li>
-          <li><a class="nav-link scrollto" href="#gallery">Galeri</a></li>
+          <li><a class="nav-link scrollto" href="#hotels">Fitur</a></li>
           <li><a class="nav-link scrollto" href="#supporters">Klien Kami</a></li>
           <li><a class="nav-link scrollto" href="#venue">Lokasi</a></li>
           <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
