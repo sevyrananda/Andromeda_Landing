@@ -27,8 +27,8 @@ Route::get('/', function () {
 // });
 
 
-Route::get('/andromedasp', [andromedaspController::class, 'index'])->name('andromedasp');
+Route::get('/sp', [andromedaspController::class, 'index'])->name('andromedasp');
 
-Route::get('/andromedapos', [andromedaposController::class, 'index'])->name('andromedapos');
+Route::get('/pos', [andromedaposController::class, 'index'])->name('andromedapos');
 
 Route::get('/landing2', [landing2Controller::class, 'index'])->name('landing2');
