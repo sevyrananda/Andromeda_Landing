@@ -12,8 +12,8 @@
          <div class="col-lg-3 col-md-6 footer-links">
            <h4>PRODUK</h4>
            <ul>
-             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('sp') }}">Godong SP</a></li>
-             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('pos') }}">Godong Pos</a></li>
+             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('andromedasp') }}">Godong SP</a></li>
+             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('andromedapos') }}">Godong Pos</a></li>
            </ul>
          </div>
 
