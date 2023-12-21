@@ -31,4 +31,5 @@ Route::get('/sp', [andromedaspController::class, 'index'])->name('andromedasp');
 
 Route::get('/pos', [andromedaposController::class, 'index'])->name('andromedapos');
 
-Route::get('/landing2', [landing2Controller::class, 'index'])->name('landing2');
+Route::get('/godong', [landing2Controller::class, 'index'])->name('landing2');
+Route::get('/perusahaan', [landing2Controller::class, 'perusahaan'])->name('perusahaan');

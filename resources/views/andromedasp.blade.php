@@ -6,15 +6,15 @@
             <div class="row">
                 <div class="col-lg-6 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1"
                     data-aos="fade-up" data-aos-delay="200">
-                    <h1>Kelola Pinjaman dan Laporan Keuangan dengan Lebih Mudah!</h1>
-                    <h2>Terintegrasi dengan Inventori, Proyek, dan Penggajian.</h2>
+                    <h1>Kelola Jasa Simpan Pinjam Anda dengan lebih mudah!</h1>
+                    <h2>Terintegrasi dengan Inventori, Akuntansi dan Payroll</h2>
                     <div class="d-flex justify-content-center justify-content-lg-start">
                         <a href="#about" class="btn-get-started scrollto">Get Started</a>
                         <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="glightbox btn-watch-video"><i class="bi bi-play-circle"></i><span>Watch Video</span></a> -->
                     </div>
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-in" data-aos-delay="200">
-                    <img src="{{ asset('Arsha/assets/img/hero-img.png') }}" class="img-fluid animated" alt="">
+                    <img src="{{ asset('TheEvent/assets/img/112.png') }}" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
@@ -29,33 +29,31 @@
                 <div class="row" data-aos="zoom-in">
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="{{ url('Arsha') }}/assets/img/clients/client-1.png" class="img-fluid" alt="">
+                        <img src="{{ url('TheEvent') }}/assets/img/KSP SAM.png" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="{{ url('TheEvent') }}/assets/img/BMT Malabar.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="{{ url('TheEvent') }}/assets/img/ksp.jpg" class="img-fluid" alt="">
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="{{ url('Arsha') }}/assets/img/clients/client-2.png" class="img-fluid" alt="">
+                        <img src="{{ url('TheEvent') }}/assets/img/KSP SAM.png" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="{{ url('TheEvent') }}/assets/img/BMT Malabar.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="{{ url('TheEvent') }}/assets/img/ksp.jpg" class="img-fluid" alt="">
                     </div>
 
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="{{ url('Arsha') }}/assets/img/clients/client-3.png" class="img-fluid" alt="">
-                    </div>
-
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="{{ url('Arsha') }}/assets/img/clients/client-4.png" class="img-fluid" alt="">
-                    </div>
-
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="{{ url('Arsha') }}/assets/img/clients/client-5.png" class="img-fluid" alt="">
-                    </div>
-
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="{{ url('Arsha') }}/assets/img/clients/client-6.png" class="img-fluid" alt="">
-                    </div>
 
                 </div>
 
             </div>
-        </section><!-- End Cliens Section -->
+        </section>
+        <!-- End Cliens Section -->
 
         <!-- ======= About Us Section ======= -->
         <!-- <section id="about" class="about">
@@ -90,60 +88,47 @@
                     <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
                         <div class="content">
-                            <h3><strong>Manfaat Aplikasi ANDROMEDA</strong></h3>
-                            <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
-                            </p>
+                            <h3><strong>Kenapa Harus GODONG SP?</strong></h3>
                         </div>
 
                         <div class="accordion-list">
                             <ul>
                                 <li>
                                     <a data-bs-toggle="collapse" class="collapse"
-                                        data-bs-target="#accordion-list-1"><span>01</span> Mengimbangi pesatnya perkembangan
-                                        teknologi, sehingga Koperasi mampu bertahan di era persaingan bsinis maupun ekonomi
-                                        yang sudah bergantung pada teknologi<i class="bx bx-chevron-down icon-show"></i><i
-                                            class="bx bx-chevron-up icon-close"></i></a>
+                                        data-bs-target="#accordion-list-1"><span>01</span> Efisiensi Operasional<i
+                                        class="bx bx-chevron-down icon-show"></i><i
+                                        class="bx bx-chevron-up icon-close"></i> </a>
                                     <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
+                                        Godong SP bertekad untuk membantu management simpan pinjam pada Bisnis Anda. Dengan adanya Godong SP, maka akan tercipta Automatisasi pada proses simpan pinjam, yang pada akhirnya dapat meningkatkan efisiensi operasional lembaga keuangan mikro, mengurangi beban kerja manual dan waktu yang diperlukan untuk transaksi.
                                     </div>
                                 </li>
 
                                 <li>
                                     <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2"
-                                        class="collapsed"><span>02</span> Memiliki database secara digital sehingga
-                                        memastikan keberadaan data aman dan terjaga<i
+                                        class="collapsed"><span>02</span>Pelayanan yang Lebih Cepat<i
                                             class="bx bx-chevron-down icon-show"></i><i
                                             class="bx bx-chevron-up icon-close"></i></a>
                                     <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
+                                         Penggunaan Godong SP akan membantu anda untuk meningkatkan layanan pada Bisnis Anda. Dimulai dari pelayanan kepada nasabah yang lebih cepat, sampai pada proses aplikasi, persetujuan pinjaman, dan pencairan dana.
                                     </div>
                                 </li>
 
                                 <li>
                                     <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3"
-                                        class="collapsed"><span>03</span> Efisiensi biaya operasional seperti cetak kertas
+                                        class="collapsed"><span>03</span>Akurasi dan Ketepatan
                                         <i class="bx bx-chevron-down icon-show"></i><i
                                             class="bx bx-chevron-up icon-close"></i></a>
                                     <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
+                                         Godong SP akan membantu Bisnis Anda dalam meningkatkan akurasi dalam perhitungan bunga, angsuran, dan manajemen akun nasabah. Kedepannya hal ini juga akan mengurangi risiko kesalahan manusia (human error).
                                     </div>
                                 </li>
 
                                 <li>
                                     <a data-bs-toggle="collapse" data-bs-target="#accordion-list-4"
-                                        class="collapsed"><span>04</span> Kepemilikan informasi tidak terpusat disalah satu
-                                        orang pengurus saja, karena data bisa diakses melalui aplikasi oleh pihak yang
-                                        diberikan akses <i class="bx bx-chevron-down icon-show"></i><i
+                                        class="collapsed"><span>04</span> Keamanan dan Kepatuhan<i class="bx bx-chevron-down icon-show"></i><i
                                             class="bx bx-chevron-up icon-close"></i></a>
                                     <div id="accordion-list-4" class="collapse" data-bs-parent=".accordion-list">
-                                    </div>
-                                </li>
-
-                                <li>
-                                    <a data-bs-toggle="collapse" data-bs-target="#accordion-list-5"
-                                        class="collapsed"><span>05</span> Mengurangi adanya Human Error pada saat
-                                        pencatatan transaksi <i class="bx bx-chevron-down icon-show"></i><i
-                                            class="bx bx-chevron-up icon-close"></i></a>
-                                    <div id="accordion-list-5" class="collapse" data-bs-parent=".accordion-list">
+                                         Godong Sp juga akan membantu Bisnis anda untuk mematuhi standar keamanan dan peraturan industri. Selain itu, Godong SP juga akan melindungi data nasabah dan mengurangi risiko keamanan.
                                     </div>
                                 </li>
 
@@ -165,7 +150,7 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
-                    <h2>Services</h2>
+                    <h2>Fitur Unggulan Godong SP</h2>
 
                 </div>
 
@@ -173,9 +158,8 @@
                     <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                            <h4><a href="">Akuntansi Koperasi dan UKM</a></h4>
-                            <p>cabang akuntansi yang khusus menangani pencatatan, pengukuran, dan pelaporan keuangan dari
-                                koperasi dan usaha mikro, kecil, dan menengah.</p>
+                            <h4><a href="">Manajemen Akun Nasabah</a></h4>
+                            <p>Memungkinkan pendaftaran nasabah baru dengan cepat dan verifikasi data secara otomatis.</p>
                         </div>
                     </div>
 
@@ -183,10 +167,8 @@
                         data-aos-delay="200">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-file "></i></div>
-                            <h4><a href="">Aplikasi Simpan Pinjam Gratis</a></h4>
-                            <p>Akuntansi koperasi adalah suatu sistem pencatatan, pengelolaan, dan pelaporan keuangan yang
-                                digunakan oleh koperasi untuk menghasilkan informasi keuangan yang berguna dan akurat dalam
-                                mengelola keuangan koperasi.</p>
+                            <h4><a href="">Proses Pinjaman dan Persetujuan Otomatis</a></h4>
+                            <p>Mendukung proses pinjaman yang cepat dan otomatis, termasuk perhitungan bunga dan angsuran.</p>
                         </div>
                     </div>
 
@@ -194,9 +176,8 @@
                         data-aos-delay="300">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
-                            <h4><a href="">Aplikasi Koperasi Digital</a></h4>
-                            <p>Aplikasi koperasi digital adalah aplikasi yang dirancang untuk membantu pengelolaan koperasi
-                                secara digital.</p>
+                            <h4><a href="">Pemantauan Pembayaran dan Angsuran</a></h4>
+                            <p>Pemantauan Pembayaran Real-time: Memberikan pemantauan real-time terhadap pembayaran dan angsuran nasabah.</p>
                         </div>
                     </div>
 
@@ -204,10 +185,8 @@
                         data-aos-delay="400">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-layer"></i></div>
-                            <h4><a href="">Laporan Keuangan Koperasi Simpan Pinjam</a></h4>
-                            <p>Simpan pinjam adalah kegiatan yang dilakukan untuk menghimpun dana dan menyalurkannya melalui
-                                kegiatan usaha simpan pinjam dari dan untuk anggota koperasi yang bersangkutan, calon
-                                anggota koperasi yang bersangkutan, koperasi lain dan atau anggotanya.</p>
+                            <h4><a href="">Pelaporan dan Analisis</a></h4>
+                            <p>Menghasilkan laporan keuangan secara otomatis untuk memudahkan audit dan pemantauan kinerja.</p>
                         </div>
                     </div>
 
@@ -749,20 +728,18 @@
                 <div class="info">
                     <div class="row">
                         <div class="col-lg-6">
-                            <h3>GODONG</h3>
+                            {{-- <h3>GODONG</h3> --}}
+                            <img src="{{url('Arsha')}}/assets/img/logoitem.png" alt="" width="175px"><br><br>
                             <p>
-                                <strong>Office:</strong> Margatama Asri IV No. 3 <br>
-                                Kota Madiun - Jawa Timur<br>
-                                <strong> Branch Office:</strong> Perum Griya Gadang Sejahtera Kav. 14<br>
-                                Gadang - Sukun - Kota Malang - Jawa Timur<br><br>
-                                <strong>TELP:</strong> 0811-2501-827<br>
-                                <strong>WA:</strong> 0811-2501-827<br>
-                                <strong>Email:</strong> cs@andromeda.co.id<br>
+                                <strong>Office:</strong> Ruko Balelintang No. 2, Jl. Letkol Suwarno, Kota Madiun,
+                                Jawa Timur<br>
+                                <strong>Whatsapp:</strong> 0811 3523 09<br>
+                                <strong>Email:</strong> ptgodong@gmail.co.id<br>
                             </p>
                         </div>
                         <div class="col-lg-6">
                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.4441567364033!2d111.53807747397418!3d-7.635290375512911!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79be937b126945%3A0x2ac1b7fffe7bacff!2sBRI%20Unit%20Bale%20Lintang!5e0!3m2!1sid!2sid!4v1703127957761!5m2!1sid!2sid"
                                 frameborder="0" style="border:0; width: 100%; height: 300px;" allowfullscreen></iframe>
                         </div>
                     </div>

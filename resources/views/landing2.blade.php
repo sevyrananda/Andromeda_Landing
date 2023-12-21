@@ -5,9 +5,9 @@
   <section id="hero">
     <div class="hero-container" data-aos="zoom-in" data-aos-delay="100">
       <h1 class="mb-4 pb-0">Selamat Datang di<br><span>Godong</span></h1>
-      <p class="mb-4 pb-0">Solusi terbaik untuk manajemen keuangan Anda</p>
-      <a href="https://youtu.be/4ZoWQeCO0CI" class="glightbox play-btn mb-4"></a>
-      <p class="mb-1 pb-0">Getting Start to</p>
+      <p class="mb-4 pb-0">Solusi terbaik untuk manajemen keuangan BISNIS anda</p>
+      <a href="https://youtu.be/Rr4xhpbrqVE?si=voEuCn4k4CTjmmy0" class="glightbox play-btn mb-4"></a>
+      <p class="mb-1 pb-0">Kenal lebih jauh dengan Godong</p>
       <row>
           <a href="{{ route('andromedapos') }}" class="about-btn scrollto">Godong POS</a>
           <a href="{{ route('andromedasp') }}" class="about-btn scrollto">Godong SP</a>
@@ -16,6 +16,48 @@
   </section><!-- End Hero Section -->
 
   <main id="main">
+    <section id="contact" class="section-bg">
+
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-header">
+          {{-- <h2>Keterlibatan Godong dalam kemajuan UMKM Indonesia </h2> --}}
+          <p>Keterlibatan Godong dalam kemajuan UMKM Indonesia </p>
+        </div>
+
+        <div class="row contact-info">
+
+          <div class="col-md-4">
+            <div class="contact-address">
+              {{-- <i class="bi bi-geo-alt"></i> --}}
+              <h3>59</h3>
+              <address>UMKM sudah Godong bantu untuk membangun kesadaran tentang betapa pentingnya digitalisasi
+            </address>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="contact-phone">
+              {{-- <i class="bi bi-phone"></i> --}}
+              <h3>30</h3>
+              <p>Cakupan Kota maupun Kabupaten yang sudah terdigitalisasi oleh Godong
+            </p>
+            </div>
+          </div>
+
+          <div class="col-md-4">
+            <div class="contact-email">
+              {{-- <i class="bi bi-envelope"></i> --}}
+              <h3>93</h3>
+              <p>Pembaharuan teknologi digital Godong kembangkan untuk UMKM Indonesia</p>
+            </div>
+          </div>
+
+
+        </div>
+
+      </div>
+    </section>
 
     <!-- ======= About Section ======= -->
     <section id="about">
@@ -23,7 +65,7 @@
         <div class="row">
           <div class="col-lg-6">
             <h2>Tentang Godong</h2>
-            <p>GODONG merupakan sistem aplikasi simpan pinjam koperasi adalah platform perangkat lunak yang dirancang khusus untuk membantu koperasi dalam mengelola keuangan, anggota, dan transaksi simpan pinjam.</p>
+            <p>Godong merupakan sistem Akuntansi berbasis Cloud yang sengaja kami kembangkan untuk memudahkan Management Keuangan pada Koperasi maupun UMKM</p>
           </div>
           <div class="col-lg-6 text-center">
             <img src="{{url('TheEvent')}}/assets/img/Logo Andromeda putih tanpa awan.png" alt="" style="max-width: 50%; height: auto;">
@@ -105,8 +147,8 @@
     <section id="schedule" class="section-with-bg">
       <div class="container" data-aos="fade-up">
         <div class="section-header">
-          <h2>POS VS SP</h2>
-          <p>Point of Sell atau Simpan Pinjam yang anda butuhkan?</p>
+          <h2>POS or SP</h2>
+          <p>Godong POS atau Godong SP yang anda butuhkan?</p>
         </div>
 
         <ul class="nav nav-tabs" role="tablist" data-aos="fade-up" data-aos-delay="100">
@@ -127,42 +169,35 @@
             <div class="row schedule-item">
               <div class="col-md-2"><category>Godong POS</category></div>
               <div class="col-md-10">
-                <h4>Untuk aplikasi manajemen penjualan/aplikasi kasir</h4>
+                <h4>Untuk management Penjualan atau Kasir</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
               <div class="col-md-2"><category>Godong POS</category></div>
               <div class="col-md-10">
-                <h4>Tesedia online dan offline</h4>
+                <h4>Multi Platform</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
               <div class="col-md-2"><category>Godong POS</category></div>
               <div class="col-md-10">
-                <h4>Untuk aplikasi manajemen penjualan/aplikasi kasir</h4>
+                <h4>Multi User</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
               <div class="col-md-2"><category>Godong POS</category></div>
               <div class="col-md-10">
-                <h4>Tesedia online dan offline</h4>
+                <h4>Mengurangi kemungkinan human error</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
               <div class="col-md-2"><category>Godong POS</category></div>
               <div class="col-md-10">
-                <h4>Untuk aplikasi manajemen penjualan/aplikasi kasir</h4>
-              </div>
-            </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><category>Godong POS</category></div>
-              <div class="col-md-10">
-                <h4>Tesedia online dan offline</h4>
+                <h4>Keamanan data terjamin</h4>
               </div>
             </div>
 
@@ -175,42 +210,35 @@
             <div class="row schedule-item">
               <div class="col-md-2"><category>Godong SP</category></div>
               <div class="col-md-10">
-                <h4>Tesedia online dan offline</h4>
+                <h4>Untuk Management Koperasi Simpan Pinjam</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
               <div class="col-md-2"><category>Godong SP</category></div>
               <div class="col-md-10">
-                <h4>Untuk aplikasi simpan pinjam</h4>
+                <h4>Multi Platform</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
               <div class="col-md-2"><category>Godong SP</category></div>
               <div class="col-md-10">
-                <h4>Tesedia online dan offline</h4>
+                <h4>Multi User</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
               <div class="col-md-2"><category>Godong SP</category></div>
               <div class="col-md-10">
-                <h4>Untuk aplikasi simpan pinjam</h4>
+                <h4>User Friendly</h4>
               </div>
             </div>
 
             <div class="row schedule-item">
               <div class="col-md-2"><category>Godong SP</category></div>
               <div class="col-md-10">
-                <h4>Tesedia online dan offline</h4>
-              </div>
-            </div>
-
-            <div class="row schedule-item">
-              <div class="col-md-2"><category>Godong SP</category></div>
-              <div class="col-md-10">
-                <h4>Untuk aplikasi simpan pinjam</h4>
+                <h4>Keamanan Terjamin</h4>
               </div>
             </div>
 
@@ -389,7 +417,7 @@
     </section><!-- End Gallery Section --> --}}
 
     <!-- ======= Supporters Section ======= -->
-    <section id="supporters" class="section-with-bg">
+    {{-- <section id="supporters" class="section-with-bg">
 
       <div class="container" data-aos="fade-up">
         <div class="section-header">
@@ -460,7 +488,7 @@
 
       </div>
 
-    </section><!-- End Sponsors Section -->
+    </section><!-- End Sponsors Section --> --}}
 
     <!-- =======  F.A.Q Section ======= -->
     <section id="faq">
@@ -477,20 +505,20 @@
             <ul class="faq-list">
 
               <li>
-                <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Apa manfaat menggunakan Godong? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                <div data-bs-toggle="collapse" class="collapsed question" href="#faq1">Apa kelebihan sistem Godong? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
                 <div id="faq1" class="collapse" data-bs-parent=".faq-list">
                   <p>
-                  Menggunakan DIKO dapat membantu koperasi meningkatkan efisiensi pengelolaan keuangan,memperbaiki pelayanan kepada anggota, dan mengurangi potensi kesalahan dalam pencatatan transaksi.
+                    Menggunakan Godong mampu meningkatkan efisiensi pencatatan transaksi maupun management keuangan pada Bisnis Anda.
                   </p>
                 </div>
               </li>
 
               <li>
-                <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">Bagaimana cara mendaftar sebagia anggota koperasi melalui sistem aplikasi ini? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                <div data-bs-toggle="collapse" href="#faq2" class="collapsed question">Bagaimana cara berlangganan Sistem Godong?<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
                 <div id="faq2" class="collapse" data-bs-parent=".faq-list">
                   <p>
-                  Untuk mendaftar sebagai anggota koperasi, Anda perlu menghubungi pengelola koperasi Anda. Mereka akan memberikan panduan langkah demi langkah tentang cara mendaftar dan menggunakan sistem aplikasi.
-                  </p>
+                    Anda bisa menghubungi kami di Whatsapp melalui 0811 352309. Atau Anda juga bisa menghubungi kami via email
+                </p>
                 </div>
               </li>
 
@@ -498,26 +526,26 @@
                 <div data-bs-toggle="collapse" href="#faq3" class="collapsed question">Apakah sistem ini aman digunakan? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
                 <div id="faq3" class="collapse" data-bs-parent=".faq-list">
                   <p>
-                  Ya,karena kami telah mengimplementasikan berbagai lapisan keamanan, termasuk enkripsi data, otentikasi dua faktor, dan pengawasan akses, untuk menjaga data Anda tetap aman.
+                    Sistem Godong 100% terjamin Aman. Jadi tidak perlu ragu lagi untuk menggunakannya.
                 </p>
                 </div>
               </li>
 
               <li>
-                <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Apakah saya dapat melihat saldo dan riwayat transaksi saya melalui Godong? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                <div data-bs-toggle="collapse" href="#faq4" class="collapsed question">Apa yang membedakan Godong dari solusi akuntansi lainnya di pasar?<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
                 <div id="faq4" class="collapse" data-bs-parent=".faq-list">
                   <p>
-                  Ya, Anda dapat mengakses saldo dan riwayat transaksi Anda melalui akun anggota Anda di sistem aplikasi.
-                  </p>
+                    Godong memiliki fitur-fitur unggulan seperti Fitur Laporan Arus Kas, Fitur Neraca Laba Rugi, dan Fitur Buku Besar. Selain itu, Godong juga dilengkapi dengan antarmuka yang intuitif.
+                </p>
                 </div>
               </li>
 
               <li>
-                <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">Bagaimana saya dapat mengajukan pinjaman melalui Godong? <i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
+                <div data-bs-toggle="collapse" href="#faq5" class="collapsed question">Apakah Godong cocok untuk bisnis kecil?<i class="bi bi-chevron-down icon-show"></i><i class="bi bi-chevron-up icon-close"></i></div>
                 <div id="faq5" class="collapse" data-bs-parent=".faq-list">
                   <p>
-                  Anda dapat mengajukan pinjaman melalui sistem aplikasi dengan mengisi formulir pinjaman yang tersedia dalam akun anggota Anda dan mengikuti petunjuk yang diberikan.
-                  </p>
+                    Ya, Godong kami rancang untuk memenuhi kebutuhan Bisnis dengan skala kecil
+                </p>
                 </div>
               </li>
 
@@ -539,76 +567,9 @@
 
     </section><!-- End  F.A.Q Section -->
 
-   
-  
-    <!-- ======= Contact Section ======= -->
-    <!-- <section id="contact" class="section-bg">
 
-      <div class="container" data-aos="fade-up">
 
-        <div class="section-header">
-          <h2>Contact Us</h2>
-          <p>Nihil officia ut sint molestiae tenetur.</p>
-        </div>
 
-        <div class="row contact-info">
-
-          <div class="col-md-4">
-            <div class="contact-address">
-              <i class="bi bi-geo-alt"></i>
-              <h3>Address</h3>
-              <address>A108 Adam Street, NY 535022, USA</address>
-            </div>
-          </div>
-
-          <div class="col-md-4">
-            <div class="contact-phone">
-              <i class="bi bi-phone"></i>
-              <h3>Phone Number</h3>
-              <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
-            </div>
-          </div>
-
-          <div class="col-md-4">
-            <div class="contact-email">
-              <i class="bi bi-envelope"></i>
-              <h3>Email</h3>
-              <p><a href="mailto:info@example.com">info@example.com</a></p>
-            </div>
-          </div>
-
-        </div>
-
-        <div class="form">
-          <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-            <div class="row">
-              <div class="form-group col-md-6">
-                <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-              </div>
-              <div class="form-group col-md-6 mt-3 mt-md-0">
-                <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-              </div>
-            </div>
-            <div class="form-group mt-3">
-              <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
-            </div>
-            <div class="form-group mt-3">
-              <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-            </div>
-            <div class="my-3">
-              <div class="loading">Loading</div>
-              <div class="error-message"></div>
-              <div class="sent-message">Your message has been sent. Thank you!</div>
-            </div>
-            <div class="text-center"><button type="submit">Send Message</button></div>
-          </form>
-        </div>
-
-      </div>
-    </section> -->
-    <!-- End Contact Section -->
-
-    
     <!-- ======= Venue Section ======= -->
     <section id="venue">
 
@@ -620,18 +581,18 @@
         </div>
 
         <div class="row g-0">
-          <div class="col-lg-6 venue-map">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid" frameborder="0" style="border:0" allowfullscreen></iframe>
+          <div class="col-lg-12 venue-map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.4441567364033!2d111.53807747397418!3d-7.635290375512911!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79be937b126945%3A0x2ac1b7fffe7bacff!2sBRI%20Unit%20Bale%20Lintang!5e0!3m2!1sid!2sid!4v1703127957761!5m2!1sid!2sid" frameborder="0" style="border:0" allowfullscreen></iframe>
           </div>
 
-          <div class="col-lg-6 venue-info">
+          {{-- <div class="col-lg-6 venue-info">
             <div class="row justify-content-center">
               <div class="col-11 col-lg-8 position-relative">
                 <h3>Web Koperasi Simpan Pinjam</h3>
                 <p>Sebuah situs web yang digunakan oleh koperasi simpan pinjam untuk memberikan informasi dan layanan kepada anggota koperasi dan calon anggota. Situs web ini biasanya menyediakan informasi tentang produk dan layanan koperasi, seperti suku bunga simpanan, suku bunga pinjaman, jenis pinjaman yang tersedia, persyaratan dan syarat untuk bergabung dengan koperasi, dan berbagai informasi terkait koperasi simpan pinjam.</p>
               </div>
             </div>
-          </div>
+          </div> --}}
         </div>
 
       </div>
@@ -709,5 +670,5 @@
     </section><!-- End Venue Section -->
 
   </main><!-- End #main -->
-  
+
 @endsection

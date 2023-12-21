@@ -5,8 +5,8 @@
        <div class="row">
 
          <div class="col-lg-3 col-md-6 footer-info">
-           <img src="{{url('TheEvent')}}/assets/img/Logo Andromeda putih tanpa awan.png" alt="TheEvenet">
-           <p>Godong merupakan sistem aplikasi simpan pinjam koperasi adalah platform perangkat lunak yang dirancang khusus untuk membantu koperasi dalam mengelola keuangan, anggota, dan transaksi simpan pinjam.</p>
+           <img src="{{url('TheEvent')}}/assets/img/Logo Andromeda putih tanpa awan.png" alt="TheEvenet"><br>
+           <p>Godong merupakan sistem Akuntansi berbasis Cloud yang sengaja kami kembangkan untuk memudahkan Management Keuangan pada Koperasi maupun UMKM.</p>
          </div>
 
          <div class="col-lg-3 col-md-6 footer-links">
@@ -20,25 +20,24 @@
          <div class="col-lg-3 col-md-6 footer-links">
            <h4>Tentang Kami</h4>
            <ul>
-             <li><i class="bi bi-chevron-right"></i> <a href="#">Perusahaan</a></li>
-             <li><i class="bi bi-chevron-right"></i> <a href="#">Partner Resmi</a></li>
+             <li><i class="bi bi-chevron-right"></i> <a href="{{ route('perusahaan') }}">Perusahaan</a></li>
+             {{-- <li><i class="bi bi-chevron-right"></i> <a href="#">Partner Resmi</a></li> --}}
            </ul>
          </div>
 
          <div class="col-lg-3 col-md-6 footer-contact">
            <h4>Contact Us</h4>
            <p>
-             Office: JL. Margatama Asri IV No. 3<br>
-             Kota Madiun<br>
-             Jawa Timur<br><br>
-             <strong>Phone:</strong> 0351-2812555<br>
-             <strong>Email:</strong> mars@example.com<br>
+             <strong>Office:</strong> Ruko Balelintang No. 2, Jl. Letkol Suwarno, Kota Madiun,
+             Jawa Timur<br>
+             <strong>Whatsapp:</strong> 0811 3523 09<br>
+             <strong>Email:</strong> ptgodong@gmail.co.id<br>
            </p>
 
            <div class="social-links">
-             <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-             <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-             <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+             <a href="https://www.youtube.com/@godongid" class="youtube"><i class="bi bi-youtube"></i></a>
+             <a href="https://www.facebook.com/profile.php?id=61554204316018" class="facebook"><i class="bi bi-facebook"></i></a>
+             <a href="https://www.instagram.com/godong.ld/?hl=id" class="instagram"><i class="bi bi-instagram"></i></a>
              <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
            </div>
 
@@ -50,10 +49,10 @@
 
    <div class="container">
      <div class="copyright">
-       &copy; Copyright <strong>Godong</strong>. All Rights Reserved
+       &copy; Copyright 2023 <strong> GODONG </strong>. All Rights Reserved
      </div>
      <div class="credits">
-       Designed by <a href="https://bootstrapmade.com/">Marstech</a>
+       Designed by <a href="https://godong.id/">godong.id</a>
      </div>
    </div>
  </footer><!-- End  Footer -->

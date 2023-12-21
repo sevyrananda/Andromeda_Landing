@@ -9,51 +9,47 @@
                     <h1>WELCOME TO GODONG POS</h1>
                     <h2>Inventori, Project, dan Payroll TERINTEGRASI</h2>
                     <div class="d-flex justify-content-center justify-content-lg-start">
-                        <a href="#about" class="btn-get-started scrollto">Get Started</a>
+                        <a href="#why-us" class="btn-get-started scrollto">Get Started</a>
                     </div>
                 </div>
                 <div class="col-lg-6 order-1 order-lg-2 hero-img" data-tilt data-aos="zoom-in" data-aos-delay="200">
-                    <img src="{{ asset('Arsha/assets/img/hero-img.png') }}" class="img-fluid" alt="">
+                    <img src="{{ asset('TheEvent/assets/img/112.png') }}" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
     </section><!-- End Hero -->
     <main id="main">
 
-        <!-- ======= Clients Section ======= -->
         <section id="clients" class="clients section-bg">
             <div class="container">
 
                 <div class="row" data-aos="zoom-in">
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+                        <img src="{{ url('TheEvent') }}/assets/img/kopkar adis.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="{{ url('TheEvent') }}/assets/img/kopebi.jpeg" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="{{ url('TheEvent') }}/assets/img/ksp.jpg" class="img-fluid" alt="">
                     </div>
 
                     <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
+                        <img src="{{ url('TheEvent') }}/assets/img/kopkar adis.jpg" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="{{ url('TheEvent') }}/assets/img/kopebi.jpeg" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                        <img src="{{ url('TheEvent') }}/assets/img/ksp.jpg" class="img-fluid" alt="">
                     </div>
 
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
-                    </div>
-
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
-                    </div>
-
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
-                    </div>
-
-                    <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-                        <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
-                    </div>
 
                 </div>
 
             </div>
-        </section><!-- End Cliens Section -->
+        </section>
 
 
         <!-- ======= Why Us Section ======= -->
@@ -65,56 +61,56 @@
                     <div class="col-lg-7 d-flex flex-column justify-content-center align-items-stretch  order-2 order-lg-1">
 
                         <div class="content">
-                            <h3><strong>Manfaat Aplikasi GODONG</strong></h3>
+                            <h3><strong>Kenapa Harus GODONG POS?</strong></h3>
                         </div>
 
                         <div class="accordion-list">
                             <ul>
                                 <li>
                                     <a data-bs-toggle="collapse" class="collapse"
-                                        data-bs-target="#accordion-list-1"><span>01</span> Mengimbangi pesatnya perkembangan
-                                        teknologi, sehingga Koperasi mampu bertahan di era persaingan bsinis maupun ekonomi
-                                        yang sudah bergantung pada teknologi<i class="bx bx-chevron-down icon-show"></i><i
-                                            class="bx bx-chevron-up icon-close"></i></a>
+                                        data-bs-target="#accordion-list-1"><span>01</span> Efisiensi Operasional<i
+                                        class="bx bx-chevron-down icon-show"></i><i
+                                        class="bx bx-chevron-up icon-close"></i> </a>
                                     <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
+                                        Godong POS akan membantu kasir dalam melakukan transaksi penjualan dengan cepat dan efisien, juga meningkatkan kecepatan layanan kepada pelanggan. Selain itu, dengan adanya Godong POS maka akan menciptakan proses Automatisasi pada perhitungan harga, perubahan stok, dan pencatatan transaksi.
                                     </div>
                                 </li>
 
                                 <li>
                                     <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2"
-                                        class="collapsed"><span>02</span> Memiliki database secara digital sehingga
-                                        memastikan keberadaan data aman dan terjaga<i
+                                        class="collapsed"><span>02</span>Menaikan branding Bisnis Anda <i
                                             class="bx bx-chevron-down icon-show"></i><i
                                             class="bx bx-chevron-up icon-close"></i></a>
                                     <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
+                                        Godong POS akan membantu Anda dalam meningkatkan Branding Bisnis Anda melalui peningkatan kualitas layanan. Kami berharap dapat memberikan pengalaman positif kepada pelanggan, yang pada akhirnya akan membentuk citra positif tentang Bisnis Anda
                                     </div>
                                 </li>
 
                                 <li>
                                     <a data-bs-toggle="collapse" data-bs-target="#accordion-list-3"
-                                        class="collapsed"><span>03</span> Efisiensi biaya operasional seperti cetak kertas
+                                        class="collapsed"><span>03</span>Akurasi Transaksi
                                         <i class="bx bx-chevron-down icon-show"></i><i
                                             class="bx bx-chevron-up icon-close"></i></a>
                                     <div id="accordion-list-3" class="collapse" data-bs-parent=".accordion-list">
+                                        Godong POS akan mengurangi risiko kesalahan dalam perhitungan harga ataupun transaksi keuangan. Hal ini juga dapat meningkatkan akurasi dan mengurangi peluang kesalahan manusia (human error).
                                     </div>
                                 </li>
 
                                 <li>
                                     <a data-bs-toggle="collapse" data-bs-target="#accordion-list-4"
-                                        class="collapsed"><span>04</span> Kepemilikan informasi tidak terpusat disalah satu
-                                        orang pengurus saja, karena data bisa diakses melalui aplikasi oleh pihak yang
-                                        diberikan akses <i class="bx bx-chevron-down icon-show"></i><i
+                                        class="collapsed"><span>04</span> Multi Platform <i class="bx bx-chevron-down icon-show"></i><i
                                             class="bx bx-chevron-up icon-close"></i></a>
                                     <div id="accordion-list-4" class="collapse" data-bs-parent=".accordion-list">
+                                       Godong POS kami rancang untuk memberikan pengalaman User yang konsisten dan dapat diakses dari berbagai perangkat. Hal ini tentu saja akan menciptakan lingkungan multi-platform yang fleksibel dan efisien.
                                     </div>
                                 </li>
 
                                 <li>
                                     <a data-bs-toggle="collapse" data-bs-target="#accordion-list-5"
-                                        class="collapsed"><span>05</span> Mengurangi adanya Human Error pada saat pencatatan
-                                        transaksi <i class="bx bx-chevron-down icon-show"></i><i
+                                        class="collapsed"><span>05</span>User Friendly <i class="bx bx-chevron-down icon-show"></i><i
                                             class="bx bx-chevron-up icon-close"></i></a>
                                     <div id="accordion-list-5" class="collapse" data-bs-parent=".accordion-list">
+                                        Antarmuka yang ramah membuat pengalaman menggunakan Godong POS menjadi sangat mudah dan intuitif. Hal ini juga memastikan bahwa pengguna dapat dengan cepat dan nyaman berinteraksi dengan berbagai fitur yang ditawarkan.
                                     </div>
                                 </li>
 
@@ -145,7 +141,7 @@
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
-                    <h2>Services</h2>
+                    <h2>Fitur Unggulan Godong POS</h2>
 
                 </div>
 
@@ -153,9 +149,8 @@
                     <div class="col-xl-3 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                            <h4><a href="">Akuntansi Koperasi dan UKM</a></h4>
-                            <p>cabang akuntansi yang khusus menangani pencatatan, pengukuran, dan pelaporan keuangan dari
-                                koperasi dan usaha mikro, kecil, dan menengah.</p>
+                            <h4><a href="">Transaksi Penjualan</a></h4>
+                            <p> Godong POS sengaja kami kembangkan untuk membantu kasir dalam melakukan transaksi penjualan. Dalam arti, kemampuan Godong POS untuk melakukan Transaksi jual beli dengan cepat dan efisien tidak perlu diragukan lagi</p>
                         </div>
                     </div>
 
@@ -163,10 +158,8 @@
                         data-aos-delay="200">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-file "></i></div>
-                            <h4><a href="">Aplikasi Simpan Pinjam Gratis</a></h4>
-                            <p>Akuntansi koperasi adalah suatu sistem pencatatan, pengelolaan, dan pelaporan keuangan yang
-                                digunakan oleh koperasi untuk menghasilkan informasi keuangan yang berguna dan akurat dalam
-                                mengelola keuangan koperasi.</p>
+                            <h4><a href="">Riwayat Transaksi</a></h4>
+                            <p>Godong POS sudah kami siapkan untuk dapat memudahkan Pemantauan dan Penyimpanan riwayat transaksi untuk keperluan audit. Selain itu, di dalam Godong POS juga terdapat Rekapitulasi Penjualan Harian, Mingguan, ataupun Bulanan</p>
                         </div>
                     </div>
 
@@ -174,9 +167,8 @@
                         data-aos-delay="300">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-tachometer"></i></div>
-                            <h4><a href="">Aplikasi Koperasi Digital</a></h4>
-                            <p>Aplikasi koperasi digital adalah aplikasi yang dirancang untuk membantu pengelolaan koperasi
-                                secara digital.</p>
+                            <h4><a href="">Pelacakan Pelanggan</a></h4>
+                            <p> Godong POS akan menyediakan Basis data pelanggan untuk menyimpan informasi pelanggan yang kedepannya akan digunakan untuk Pemberian diskon atau Promosi Khusus untuk pelanggan setia(member).</p>
                         </div>
                     </div>
 
@@ -184,10 +176,8 @@
                         data-aos-delay="400">
                         <div class="icon-box">
                             <div class="icon"><i class="bx bx-layer"></i></div>
-                            <h4><a href="">Laporan Keuangan Koperasi Simpan Pinjam</a></h4>
-                            <p>Simpan pinjam adalah kegiatan yang dilakukan untuk menghimpun dana dan menyalurkannya melalui
-                                kegiatan usaha simpan pinjam dari dan untuk anggota koperasi yang bersangkutan, calon
-                                anggota koperasi yang bersangkutan, koperasi lain dan atau anggotanya.</p>
+                            <h4><a href="">Manajemen Stok</a></h4>
+                            <p> Godong POS akan membantu crew Bisnis Anda dalam hal Pemantauan stok secara real-time. Godong POS juga akan mengeluarkan Alert Pemberitahuan otomatis ketika stok hampir habis atau kadaluwarsa. </p>
                         </div>
                     </div>
 
@@ -725,7 +715,7 @@
         </section><!-- End Pricing Section -->
 
         <!-- ======= Frequently Asked Questions Section ======= -->
-        <section id="faq" class="faq section-bg">
+        {{-- <section id="faq" class="faq section-bg">
             <div class="container" data-aos="fade-up">
 
                 <div class="section-title">
@@ -783,7 +773,7 @@
                 </div>
 
             </div>
-        </section><!-- End Frequently Asked Questions Section -->
+        </section> --}}
 
         <!-- ======= Contact Section ======= -->
         <section id="contact" class="contact">
@@ -797,20 +787,17 @@
                 <div class="info">
                     <div class="row">
                         <div class="col-lg-6">
-                            <h3>GODONG</h3>
+                            <img src="{{url('Arsha')}}/assets/img/logoitem.png" alt="" width="175px"><br><br>
                             <p>
-                                <strong>Office:</strong> Margatama Asri IV No. 3 <br>
-                                Kota Madiun - Jawa Timur<br>
-                                <strong> Branch Office:</strong> Perum Griya Gadang Sejahtera Kav. 14<br>
-                                Gadang - Sukun - Kota Malang - Jawa Timur<br><br>
-                                <strong>TELP:</strong> 0811-2501-827<br>
-                                <strong>WA:</strong> 0811-2501-827<br>
-                                <strong>Email:</strong> cs@andromeda.co.id<br>
+                                <strong>Office:</strong> Ruko Balelintang No. 2, Jl. Letkol Suwarno, Kota Madiun,
+                                Jawa Timur<br>
+                                <strong>Whatsapp:</strong> 0811 3523 09<br>
+                                <strong>Email:</strong> ptgodong@gmail.co.id<br>
                             </p>
                         </div>
                         <div class="col-lg-6">
                             <iframe
-                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.428402113363!2d111.54006207413555!3d-7.6369929755328085!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79bf36978c3bf3%3A0x8c1997902afb269f!2sMARSTECH!5e0!3m2!1sid!2sid!4v1690605880803!5m2!1sid!2sid"
+                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3954.4441567364033!2d111.53807747397418!3d-7.635290375512911!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e79be937b126945%3A0x2ac1b7fffe7bacff!2sBRI%20Unit%20Bale%20Lintang!5e0!3m2!1sid!2sid!4v1703127957761!5m2!1sid!2sid"
                                 frameborder="0" style="border:0; width: 100%; height: 300px;" allowfullscreen></iframe>
                         </div>
                     </div>

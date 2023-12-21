@@ -10,5 +10,9 @@ class landing2Controller extends Controller
     {
         return view('landing2');
     }
+    public function perusahaan()
+    {
+        return view('perusahaan');
+    }
 }
 
